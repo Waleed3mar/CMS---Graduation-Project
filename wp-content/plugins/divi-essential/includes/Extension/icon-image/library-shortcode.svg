@@ -1,0 +1,11 @@
+<svg width="24" height="22" viewBox="0 0 24 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="0.125" width="2" height="21" fill="#266DE8"/>
+<rect y="0.125" width="8" height="2" fill="#266DE8"/>
+<rect y="19.125" width="8" height="2" fill="#266DE8"/>
+<rect width="2" height="21" transform="matrix(-1 0 0 1 24 0.125)" fill="#266DE8"/>
+<rect width="8" height="2" transform="matrix(-1 0 0 1 24 0.125)" fill="#266DE8"/>
+<rect width="8" height="2" transform="matrix(-1 0 0 1 24 19.125)" fill="#266DE8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10.396 6.58655L12 8.01616L7.13107 12.3558L12 16.6954L10.396 18.125L3.9231 12.3558L10.396 6.58655Z" fill="#266DE8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M13.604 3.125L12 4.55461L16.8689 8.89423L12 13.2339L13.604 14.6635L20.0769 8.89423L13.604 3.125Z" fill="#266DE8"/>
+<ellipse cx="14.3077" cy="16.9711" rx="1.15385" ry="1.15385" fill="#266DE8"/>
+</svg>

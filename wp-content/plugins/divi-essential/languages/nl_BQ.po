@@ -1,0 +1,5416 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-12-03 12:56+0600\n"
+"PO-Revision-Date: 2023-05-24 20:56+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_BQ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.3\n"
+"X-Poedit-Basepath: ../modules\n"
+"X-Poedit-KeywordsList: esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Next Divider"
+msgstr "Volgende verdeler"
+
+msgid "Image & Icon"
+msgstr "Afbeelding"
+
+msgid "Background Color"
+msgstr "Achtergrond kleur"
+
+msgid "Color"
+msgstr "Kleur"
+
+msgid "Gradient"
+msgstr "Gradiënt"
+
+msgid "Divider Style"
+msgstr "Scheidingsstijl"
+
+msgid "Use Image"
+msgstr "Gebruik afbeelding"
+
+msgid "No"
+msgstr "Nee"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "Here you can choose whether icon set below should be used."
+msgstr ""
+"Hier kunt u kiezen of de onderstaande pictogramset moet worden gebruikt."
+
+msgid "Icon"
+msgstr "Icoon"
+
+msgid "Choose an icon to display with your blurb."
+msgstr "Kies een pictogram dat moet worden weergegeven met uw blurb."
+
+msgid "Icon Color"
+msgstr "Pictogramkleur"
+
+msgid "Here you can define a custom color for your icon."
+msgstr "Hier kunt u een aangepaste kleur voor uw pictogram definiëren."
+
+msgid "Image/Icon Alignment"
+msgstr "Afbeelding/pictogramuitlijning"
+
+msgid "Align image/icon to the left, right or center."
+msgstr "Lijn het beeld/pictogram uit naar links, rechts of in het midden."
+
+msgid "Icon Font Size"
+msgstr "Pictogramlettergrootte"
+
+msgid "Control the size of the icon by increasing or decreasing the font size."
+msgstr ""
+"Controleer de grootte van het pictogram door de lettergrootte te verhogen of "
+"te verlagen."
+
+msgid "Image"
+msgstr "Afbeelding"
+
+msgid "Upload an image to display at the top of your blurb."
+msgstr "Upload een afbeelding die bovenaan uw blurb wordt weergegeven."
+
+msgid "Image Alt Text"
+msgstr "Afbeelding alt -tekst"
+
+msgid "Define the HTML ALT text for your image here."
+msgstr "Definieer hier de HTML ALT -tekst voor uw afbeelding."
+
+msgid "Image Width"
+msgstr "Beeldbreedte"
+
+msgid "Adjust the width of the image within the blurb."
+msgstr "Pas de breedte van het beeld in de blurb aan."
+
+msgid ""
+"Divider support various different styles, each of which will change the "
+"shape of the divider element."
+msgstr ""
+"Divider ondersteunt verschillende stijlen, die elk de vorm van het "
+"dividerelement zullen veranderen."
+
+msgid "This will adjust the color of the 1px divider line."
+msgstr "Hiermee wordt de kleur van de 1px dividerlijn aangepast."
+
+msgid "Divider Width"
+msgstr "Wijdbreedte"
+
+msgid "Divider Gap"
+msgstr "Gat"
+
+msgid "Gradient Color"
+msgstr "Overgangskleur"
+
+msgid "Select Color One"
+msgstr "Selecteer Color One"
+
+msgid "Select Color Two"
+msgstr "Selecteer kleur twee"
+
+msgid "Select Gradient Type"
+msgstr "Selecteer het gradiënttype"
+
+msgid "Select the types of gradient"
+msgstr "Selecteer de soorten gradiënt"
+
+msgid "Linear"
+msgstr "Lineair"
+
+msgid "Radial"
+msgstr "Radiaal"
+
+msgid "Linear direction"
+msgstr "Lineaire richting"
+
+msgid "Radial Direction"
+msgstr "Radiale richting"
+
+msgid "Center"
+msgstr "Centrum"
+
+msgid "Top Left"
+msgstr "Linksboven"
+
+msgid "Top"
+msgstr "Bovenkant"
+
+msgid "Top Right"
+msgstr "Rechtsboven"
+
+msgid "Right"
+msgstr "Rechts"
+
+msgid "Bottom Right"
+msgstr "Rechts onder"
+
+msgid "Bottom"
+msgstr "Onderkant"
+
+msgid "Bottom Left"
+msgstr "Linksonder"
+
+msgid "Left"
+msgstr "Links"
+
+msgid "Start Position"
+msgstr "Begin positie"
+
+msgid "End Position"
+msgstr "Eindpositie"
+
+msgid "Next Image Magnifier"
+msgstr "Volgende beeldvergroter"
+
+msgid "Magnifier Settings"
+msgstr "Vergrotingsinstellingen"
+
+msgid "Lens Settings"
+msgstr "Lensinstellingen"
+
+msgid "Image Settings"
+msgstr "Afbeeldingsinstellingen"
+
+msgid "Lens"
+msgstr "Lens"
+
+msgid "Lens Box Shadow"
+msgstr "Lens Box Shadow"
+
+msgid "Image Box Shadow"
+msgstr "Afbeeldingsdoos schaduw"
+
+msgid "Image Upload"
+msgstr "Afbeelding upload"
+
+msgid "Upload a image"
+msgstr "Upload een afbeelding"
+
+msgid "Image Alt"
+msgstr "Afbeelding Alt"
+
+msgid "Input image alt text"
+msgstr "Voer afbeelding ALT -tekst in"
+
+msgid "Speed"
+msgstr "Snelheid"
+
+msgid "Adjust the speed of the magnifying glass."
+msgstr "Pas de snelheid van het vergrootglas aan."
+
+msgid "User Boundary Limit"
+msgstr "Gebruikersgrenslimiet"
+
+msgid "Lens Width"
+msgstr "Lensbreedte"
+
+msgid "Adjust the width of the lens."
+msgstr "Pas de breedte van de lens aan."
+
+msgid "Next Image Reveal"
+msgstr "Volgende afbeelding onthullen"
+
+msgid "Reveal Color"
+msgstr "Onthul kleur"
+
+msgid "Single Color"
+msgstr "Enkele kleur"
+
+msgid "Upload Image"
+msgstr "Afbeelding uploaden"
+
+msgid "Upload an image to display your image reveal effect."
+msgstr "Upload een afbeelding om uw afbeelding te weergeven onthullen effect."
+
+msgid "Single"
+msgstr "Enkel"
+
+msgid "Content entered here will appear inside the module."
+msgstr "De hier ingevoerde inhoud verschijnt in de module."
+
+msgid ""
+"Choose the first color to blend with the second color from the color picker "
+"that suits your title text."
+msgstr ""
+"Kies de eerste kleur om te mengen met de tweede kleur van de kleurenkiezer "
+"die past bij uw titeltekst."
+
+msgid ""
+"Choose the second color to blend with the first color from the color picker "
+"that suits your title text."
+msgstr ""
+"Kies de tweede kleur om te mengen met de eerste kleur van de kleurenkiezer "
+"die past bij uw titeltekst."
+
+msgid "Select a type of gradient for the Title Text."
+msgstr "Selecteer een type gradiënt voor de titeltekst."
+
+msgid "Adjust the direction of the gradient for the title text."
+msgstr "Pas de richting van de gradiënt aan voor de titeltekst."
+
+msgid "Top Left Corner"
+msgstr "Bovenin de linker hoek"
+
+msgid "Top Right Corner"
+msgstr "Rechter bovenhoek"
+
+msgid "Adjust the position for the beginning of the gradient color."
+msgstr "Pas de positie aan voor het begin van de gradiëntkleur."
+
+msgid "Adjust the position for the ending of the gradient color."
+msgstr "Pas de positie aan voor het einde van de gradiëntkleur."
+
+msgid "Next Lottie"
+msgstr "Volgende Lottie"
+
+msgid "Lottie Elements"
+msgstr "Lottie -elementen"
+
+msgid "Lottie Settings"
+msgstr "Lottie -instellingen"
+
+msgid "Lottie"
+msgstr "Lotie"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Description"
+msgstr "Beschrijving"
+
+msgid "Button"
+msgstr "Knop"
+
+msgid "Title Box Shadow"
+msgstr "Titelvak Schaduw"
+
+msgid "Description Box Shadow"
+msgstr "Beschrijving Box Shadow"
+
+msgid "Button Box Shadow"
+msgstr "Knopdoos schaduw"
+
+msgid "Lottie JSON File"
+msgstr "Lottie JSON -bestand"
+
+msgid "Upload a file"
+msgstr "Een bestand uploaden"
+
+msgid "Input title text"
+msgstr "Invoertitetekst invoer"
+
+msgid "Content"
+msgstr "Inhoud"
+
+msgid "Input the main text content for your module here."
+msgstr "Voer hier de hoofdtekstinhoud in voor uw module."
+
+msgid "Use Button"
+msgstr "Gebruik knop"
+
+msgid "Button Text"
+msgstr "Knop tekst"
+
+msgid "Input button text"
+msgstr "Invoerknop tekst invoeren"
+
+msgid "Link"
+msgstr "Koppeling"
+
+msgid "When clicked the module will link to this URL."
+msgstr "Wanneer geklikt wordt op de module naar deze URL gelinkt."
+
+msgid "Link Target"
+msgstr "Link doelwit"
+
+msgid "Select the link target"
+msgstr "Selecteer het link doelwit"
+
+msgid "In The Same Window"
+msgstr "In hetzelfde venster"
+
+msgid "In The New Tab"
+msgstr "Op het nieuwe tabblad"
+
+msgid "Loop"
+msgstr "Lus"
+
+msgid "Here you can choose whether or not your Lottie will animate in loop."
+msgstr "Hier kunt u kiezen of uw lottie in de loop zal animeren."
+
+msgid "Autoplay"
+msgstr "Automatisch afspelen"
+
+msgid "Play On Hover"
+msgstr "Speel op Hover"
+
+msgid "Stop On Hover"
+msgstr "Stop op Hover"
+
+msgid "The speed of the animation."
+msgstr "De snelheid van de animatie."
+
+msgid "Start Frame"
+msgstr "Start frame"
+
+msgid "The start frame of the animation."
+msgstr "Het startframe van de animatie."
+
+msgid "Direction"
+msgstr "Richting"
+
+msgid "Select the animation direction."
+msgstr "Selecteer de animatierichting."
+
+msgid "forward"
+msgstr "vooruit"
+
+msgid "reverse"
+msgstr "achteruit"
+
+msgid "Alignment"
+msgstr "Uitlijning"
+
+msgid "Align animation to the left, right or center."
+msgstr "Lijn animatie aan de linkerkant, rechts of in het midden uit."
+
+msgid "Lottie Width"
+msgstr "Lottiebreedte"
+
+msgid ""
+"Control the size of the animation  by increasing or decreasing the range."
+msgstr ""
+"Controleer de grootte van de animatie door het bereik te verhogen of te "
+"verlagen."
+
+msgid "Button Alignment"
+msgstr "Knopuitlijning"
+
+msgid "Align your button to the left, right or center of the module."
+msgstr "Lijn uw knop aan de linkerkant, rechts of midden van de module uit."
+
+msgid "Here you can define the alignment of Button"
+msgstr "Hier kunt u de uitlijning van de knop definiëren"
+
+msgid "Title Margin"
+msgstr "Titelmarge"
+
+msgid "Title Padding"
+msgstr "Titelvulling"
+
+msgid "Description Margin"
+msgstr "Beschrijving Marge"
+
+msgid "Description Padding"
+msgstr "Beschrijving Vulling"
+
+msgid "Button Margin"
+msgstr "Knoopmarge"
+
+msgid "Button Padding"
+msgstr "Knopvulling"
+
+msgid "Next Gallery Slider"
+msgstr "Volgende galerijschuifregelaar"
+
+msgid "Carousel Settings"
+msgstr "Carrousel -instellingen"
+
+msgid "Top Gallery"
+msgstr "Topgalerij"
+
+msgid "Bottom Gallery"
+msgstr "Onderste galerij"
+
+msgid "Navigation Settings"
+msgstr "Navigatie -instellingen"
+
+msgid "Effect Settings"
+msgstr "Effectinstellingen"
+
+msgid "Color Settings"
+msgstr "Kleurinstellingen"
+
+msgid "Arrow Settings"
+msgstr "Pijl -instellingen"
+
+msgid "Autoplay Delay"
+msgstr "Autoplay vertraging"
+
+msgid "Center Slide"
+msgstr "Middenglijbaan"
+
+msgid "Use Grab Cursor"
+msgstr "Gebruik grijp cursor"
+
+msgid "Space Between"
+msgstr "Ruimte tussen"
+
+msgid "Slides Per View"
+msgstr "Dia's per weergave"
+
+msgid "Use Arrow Navigation"
+msgstr "Gebruik pijl -navigatie"
+
+msgid "Keyboard Navigation"
+msgstr "Toetsenbordnavigatie"
+
+msgid "Select on or off of control keyboard navigation."
+msgstr "Selecteer op of af van de navigatie van de controle -toetsenbord."
+
+msgid "Type"
+msgstr "Type"
+
+msgid "None"
+msgstr "Geen"
+
+msgid "Bullets"
+msgstr "Kogels"
+
+msgid "Fraction"
+msgstr "Fractie"
+
+msgid "Progress Bar"
+msgstr "Voortgangsbalk"
+
+msgid "Dynamic Bullets"
+msgstr "Dynamische kogels"
+
+msgid "Arrow Color"
+msgstr "Pijlkleur"
+
+msgid "Arrow Background Color"
+msgstr "Pijl achtergrondkleur"
+
+msgid "Dots Color"
+msgstr "Stippen kleur"
+
+msgid "Dots Active Color"
+msgstr "Stippen actieve kleur"
+
+msgid "Progressbar Fill Color"
+msgstr "ProgressBar vulkleur"
+
+msgid "Shadow color"
+msgstr "Schaduwkleur"
+
+msgid "Font Size"
+msgstr "Lettertypegrootte"
+
+msgid "Arrow Position"
+msgstr "Pijlpositie"
+
+msgid "Select the types of arrow position"
+msgstr "Selecteer de soorten pijlpositie"
+
+msgid "Default"
+msgstr "Standaard"
+
+msgid "Inner"
+msgstr "Innerlijk"
+
+msgid "Outer"
+msgstr "Buitenste"
+
+msgid "Arrow Margin"
+msgstr "Pijlmarge"
+
+msgid "Arrow Padding"
+msgstr "Pijlvulling"
+
+msgid "Pause On Hover"
+msgstr "Pauzeer op Hover"
+
+msgid "Gallery Slider Item"
+msgstr "Galerijschuifregelaar Item"
+
+msgid "Text entered here will appear as title."
+msgstr "De hier ingevoerde tekst verschijnt als titel."
+
+msgid "Next Image Hotspot"
+msgstr "Volgende afbeelding Hotspot"
+
+msgid "Hotspot Settings"
+msgstr "Hotspot -instellingen"
+
+msgid "Tooltip Settings"
+msgstr "Tooltip -instellingen"
+
+msgid "Tooltip Text"
+msgstr "Tooltip -tekst"
+
+msgid "Tooltip Description"
+msgstr "Tooltip Beschrijving"
+
+msgid "Tooltip Image"
+msgstr "Tooltip -afbeelding"
+
+msgid "Hotspot Text"
+msgstr "Hotspot -tekst"
+
+msgid "Hotspot Icon"
+msgstr "Hotspot -pictogram"
+
+msgid "Hotspot"
+msgstr "Hotspot"
+
+msgid "Tooltip"
+msgstr "Werktip"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "Hotspot Box Shadow"
+msgstr "Hotspot Box Shadow"
+
+msgid "Text Box Shadow"
+msgstr "Tekstvak schaduw"
+
+msgid "Box Shadow"
+msgstr "Doosschaduw"
+
+msgid "Upload an image to display at the top of your team person."
+msgstr "Upload een afbeelding die bovenaan uw teampersoon wordt weergegeven."
+
+msgid "Wave Color"
+msgstr "Golfkleur"
+
+msgid "Icon Size"
+msgstr "Pictogramformaat"
+
+msgid "Adjust the size of the icon."
+msgstr "Pas de grootte van het pictogram aan."
+
+msgid "Tooltip Text Margin"
+msgstr "Tooltip tekstmarge"
+
+msgid "Tooltip Text Padding"
+msgstr "Tooltip tekstvulling"
+
+msgid "Tooltip Image Margin"
+msgstr "Tooltip afbeeldingsmarge"
+
+msgid "Tooltip Image Padding"
+msgstr "Tooltip Image Vulling"
+
+msgid "Hotspot Item"
+msgstr "Hotspot -item"
+
+msgid "Input Hotspot text"
+msgstr "Voer hotspot -tekst in"
+
+msgid "Use Icon"
+msgstr "Gebruik pictogram"
+
+msgid "Tooltip Position"
+msgstr "Tooltip -positie"
+
+msgid "Select the position of the tooltip"
+msgstr "Selecteer de positie van de tooltip"
+
+msgid "Tooltip Layout"
+msgstr "Tooltip lay -out"
+
+msgid "Select the layout of the tooltip"
+msgstr "Selecteer de lay -out van de tooltip"
+
+msgid "Top Image, Bottom Content"
+msgstr "Bovenafbeelding, onderste inhoud"
+
+msgid "Top Content, Bottom Image"
+msgstr "Topinhoud, onderste afbeelding"
+
+msgid "Left Image, Right Content"
+msgstr "Linksafbeelding, rechter inhoud"
+
+msgid "Left Content, Right Image"
+msgstr "Linker inhoud, rechter afbeelding"
+
+msgid "Input Tooltip text"
+msgstr "Input Tooltip -tekst invoeren"
+
+msgid "Tooltip Content"
+msgstr "Tooltip -inhoud"
+
+msgid "Tooltip Description goes here"
+msgstr "Tooltip -beschrijving gaat hierheen"
+
+msgid "Horizontal Position"
+msgstr "Horizontale positie"
+
+msgid "Adjust the position of hotspot."
+msgstr "Pas de positie van hotspot aan."
+
+msgid "Vertical Position"
+msgstr "Verticale positie"
+
+msgid "Tooltip Width"
+msgstr "Werkbreedte"
+
+msgid "Adjust the width of tooltip."
+msgstr "Pas de breedte van de tooltip aan."
+
+msgid "Adjust the width of image."
+msgstr "Pas de breedte van de afbeelding aan."
+
+msgid "Image Position"
+msgstr "Afbeeldingspositie"
+
+msgid "Select the position of the Image"
+msgstr "Selecteer de positie van de afbeelding"
+
+msgid "Top/Left"
+msgstr "Linksboven"
+
+msgid "Bottom/Right"
+msgstr "Rechts onder"
+
+msgid "Next Flip Box"
+msgstr "Volgende flipbox"
+
+msgid "Flip Elements"
+msgstr "Flip -elementen"
+
+msgid "Front"
+msgstr "Voorkant"
+
+msgid "Back"
+msgstr "Rug"
+
+msgid "Flipbox Front Background"
+msgstr "Flipbox voor achtergrond"
+
+msgid "Flipbox Back Background"
+msgstr "Flipbox terug achtergrond"
+
+msgid "Button Background"
+msgstr "Knoop achtergrond"
+
+msgid "Flipbox Effect"
+msgstr "Flipbox -effect"
+
+msgid "Front Icon Settings"
+msgstr "Pictograminstellingen vooraan"
+
+msgid "Back Icon Settings"
+msgstr "Terugpictograminstellingen"
+
+msgid "Title Text"
+msgstr "Titel tekst"
+
+msgid "Button Settings"
+msgstr "Knopinstellingen"
+
+msgid "Body"
+msgstr "Lichaam"
+
+msgid "Flipbox Spacing"
+msgstr "Flipbox -afstand"
+
+msgid "Front Borders"
+msgstr "Voorste grenzen"
+
+msgid "Back Borders"
+msgstr "Ruggrenzen"
+
+msgid "Front Boxshadow"
+msgstr "Voorboxshadow"
+
+msgid "Back Boxshadow"
+msgstr "Terug boxshadow"
+
+msgid "Front Box Shadow"
+msgstr "Voorbox schaduw"
+
+msgid "Back Box Shadow"
+msgstr "Back Box Shadow"
+
+msgid "Front Icon Box Shadow"
+msgstr "Voorpictogramdoos schaduw"
+
+msgid "Back Icon Box Shadow"
+msgstr "Terug pictogram doos schaduw"
+
+msgid "Front Icon"
+msgstr "Voorpictogram"
+
+msgid "Front Image"
+msgstr "Voorste afbeelding"
+
+msgid "Front Heading"
+msgstr "Voorste kop"
+
+msgid "Front Description"
+msgstr "Voorbeschrijving"
+
+msgid "Back Icon"
+msgstr "Terugpictogram"
+
+msgid "Back Image"
+msgstr "Terugafbeelding"
+
+msgid "Back Heading"
+msgstr "Achterin"
+
+msgid "Back Description"
+msgstr "Terugbeschrijving"
+
+msgid "Icon Enable"
+msgstr "Pictogram ingeschakeld"
+
+msgid "Off"
+msgstr "Uit"
+
+msgid "On"
+msgstr "Op"
+
+msgid "Image Enable"
+msgstr "Afbeelding inschakelen"
+
+msgid "Heading Text"
+msgstr "Koptekst"
+
+msgid "Heading Text entered here will appear inside the module."
+msgstr "De hoofdtekst die hier wordt ingevoerd, verschijnt in de module."
+
+msgid "Select Heading Tag"
+msgstr "Selecteer de koptag"
+
+msgid "Select the heading tag, which you would like to use"
+msgstr "Selecteer de koptag, die u wilt gebruiken"
+
+msgid "H1"
+msgstr "H1"
+
+msgid "H2"
+msgstr "H2"
+
+msgid "H3"
+msgstr "H3"
+
+msgid "H4"
+msgstr "H4"
+
+msgid "H5"
+msgstr "H5"
+
+msgid "H6"
+msgstr "H6"
+
+msgid "Select Background Color"
+msgstr "Selecteer achtergrondkleur"
+
+msgid "Gradient direction"
+msgstr "Gradiëntrichting"
+
+msgid "Upload Background Image"
+msgstr "Upload achtergrondafbeelding"
+
+msgid "Icon Alignment"
+msgstr "Pictogramuitlijning"
+
+msgid "Align icon to the left, right or center."
+msgstr "Lijn het pictogram uit naar links, rechts of in het midden."
+
+msgid "Icon Margin"
+msgstr "Pictogrammarge"
+
+msgid "Icon Padding"
+msgstr "Pictogramvulling"
+
+msgid "Image Margin"
+msgstr "Beeldmarge"
+
+msgid "Image Padding"
+msgstr "Afbeeldingsvulling"
+
+msgid "Image Background Color"
+msgstr "Afbeelding achtergrondkleur"
+
+msgid "Here you can define a custom background color for your image."
+msgstr ""
+"Hier kunt u een aangepaste achtergrondkleur definiëren voor uw afbeelding."
+
+msgid "Image Size"
+msgstr "Afbeeldingsgrootte"
+
+msgid "Control the size of the image by increasing or decreasing the range."
+msgstr ""
+"Controleer de grootte van het beeld door het bereik te verhogen of te "
+"verlagen."
+
+msgid "Image Alignment"
+msgstr "Afbeelding uitlijning"
+
+msgid "Align image to the left, right or center."
+msgstr "Lijn de afbeelding uit naar links, rechts of in het midden."
+
+msgid "Heading Margin"
+msgstr "Kopmarge"
+
+msgid "Heading Padding"
+msgstr "Kopvulling"
+
+msgid "Content Margin"
+msgstr "Inhoudsmarge"
+
+msgid "Content Padding"
+msgstr "Inhoudsvulling"
+
+msgid "Choose where Flipbox Effect"
+msgstr "Kies waar flipbox -effect"
+
+msgid "Flip Right"
+msgstr "Draai naar rechts"
+
+msgid "Flip Left"
+msgstr "Draai naar links"
+
+msgid "Flip Up"
+msgstr "Flip-up"
+
+msgid "Flip Down"
+msgstr "Omslaan"
+
+msgid "Flip Diagonal Right"
+msgstr "Diagonaal omdraaien"
+
+msgid "Flip Diagonal Left"
+msgstr "Flip diagonaal links"
+
+msgid "Flip Inverted Diagonal Right"
+msgstr "Flip omgekeerde diagonaal recht"
+
+msgid "Flip Inverted Ddiagonal Left"
+msgstr "Flip omgekeerde diagonaal links"
+
+msgid "Here you can define a custom background color for your Button."
+msgstr "Hier kunt u een aangepaste achtergrondkleur voor uw knop definiëren."
+
+msgid "Select heading tag, which you would like to use"
+msgstr "Selecteer de koptag, die u wilt gebruiken"
+
+msgid "Button Show Hide"
+msgstr "Knop Show Hide"
+
+msgid "Button Link"
+msgstr "Knoplink"
+
+msgid "Button Link Target"
+msgstr "Knop Link Target"
+
+msgid "Here you can choose whether or not your link opens in a new window"
+msgstr "Hier kunt u kiezen of uw link al dan niet opent in een nieuw venster"
+
+msgid "Button Margin Outer"
+msgstr "Knopmarge buiten"
+
+msgid "Button Padding Outer"
+msgstr "Knopvulling buiten"
+
+msgid "Button Margin Inner"
+msgstr "Knopmarge binnen"
+
+msgid "Button Padding Inner"
+msgstr "Knopvulling binnen"
+
+msgid "Front Icon Background"
+msgstr "Achterste pictogram achtergrond"
+
+msgid "Next Logo Carousel"
+msgstr "Volgende logo -carrousel"
+
+msgid "Image Border"
+msgstr "Afbeeldingsgrens"
+
+msgid "Logo Carousel Item"
+msgstr "Logo -carrouselitem"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Next Person"
+msgstr "Volgende persoon"
+
+msgid "Image Background"
+msgstr "Afbeeldingsachtergrond"
+
+msgid "Content Background"
+msgstr "Inhoudsachtergrond"
+
+msgid "Style"
+msgstr "Stijl"
+
+msgid "Social Aligment"
+msgstr "Sociale afstemming"
+
+msgid "Content Border"
+msgstr "Inhoudsrand"
+
+msgid "Position"
+msgstr "Positie"
+
+msgid "Content Body"
+msgstr "Inhouds lichaam"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "Input the name of the person"
+msgstr "Voer de naam van de persoon in"
+
+msgid "Input the person's position."
+msgstr "Voer de positie van de persoon in."
+
+msgid "Social Item Alignment"
+msgstr "Sociale itemuitlijning"
+
+msgid "Align social item to the left, right or center."
+msgstr "Lijn het sociale item aan de linkerkant, rechts of in het midden aan."
+
+msgid "Select Image Postion"
+msgstr "Selecteer afbeeldingspositie"
+
+msgid "Select the types of image position"
+msgstr "Selecteer de soorten afbeeldingspositie"
+
+msgid "Select Image Left Position"
+msgstr "Selecteer de afbeelding van de afbeelding"
+
+msgid "Choose where Image"
+msgstr "Kies waar afbeelding"
+
+msgid "Left Top"
+msgstr "Bovenaan links"
+
+msgid "Left Center"
+msgstr "Linker midden"
+
+msgid "Left Bottom"
+msgstr "Links onderaan"
+
+msgid "Select Image Top Position"
+msgstr "Selecteer de bovenste positie van de afbeelding"
+
+msgid "Top Center"
+msgstr "Midden boven"
+
+msgid "Adjust the width of the image within the team."
+msgstr "Pas de breedte van de afbeelding binnen het team aan."
+
+msgid "Position Margin"
+msgstr "Positiemarge"
+
+msgid "Position Padding"
+msgstr "Positievulling"
+
+msgid "Body Margin"
+msgstr "Lichaamsmarge"
+
+msgid "Body Padding"
+msgstr "Bodyvulling"
+
+msgid "Social Network"
+msgstr "Sociaal netwerk"
+
+msgid "Network"
+msgstr "Netwerk"
+
+msgid "Link Window"
+msgstr "Link -venster"
+
+msgid "New Social Network"
+msgstr "Nieuw sociaal netwerk"
+
+msgid "Social Network Settings"
+msgstr "Sociale netwerkinstellingen"
+
+msgid "Social Icon"
+msgstr "Sociaal icoon"
+
+msgid "If you need more social icon Select Other Network"
+msgstr ""
+"Als u meer sociaal pictogram nodig hebt, selecteert u een ander netwerk"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "Pinterest"
+msgstr "Pinterest"
+
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+msgid "tumblr"
+msgstr "tumblr"
+
+msgid "Instagram"
+msgstr "Instagram"
+
+msgid "skype"
+msgstr "Skype"
+
+msgid "Flikr"
+msgstr "Flickr"
+
+msgid "dribbble"
+msgstr "dribble"
+
+msgid "Youtube"
+msgstr "YouTube"
+
+msgid "Vimeo"
+msgstr "Vimeo"
+
+msgid "Select Other Network"
+msgstr "Selecteer een ander netwerk"
+
+msgid "Select Social Icon."
+msgstr "Selecteer Sociaal pictogram."
+
+msgid "Account Link URL"
+msgstr "Accountlink URL"
+
+msgid "The URL for this social network link."
+msgstr "De URL voor deze sociale netwerklink."
+
+msgid "Account Name"
+msgstr "Accountnaam"
+
+msgid "The Skype account name."
+msgstr "De Skype -accountnaam."
+
+msgid "Skype Button Action"
+msgstr "Skype -knopactie"
+
+msgid "Call"
+msgstr "Telefoongesprek"
+
+msgid "Chat"
+msgstr "Kletsen"
+
+msgid "Here you can choose which action to execute on button click"
+msgstr "Hier kunt u kiezen welke actie u moet uitvoeren op de knop Klik"
+
+msgid "Here you can define a custom color for the social network icon."
+msgstr ""
+"Hier kunt u een aangepaste kleur definiëren voor het sociale "
+"netwerkpictogram."
+
+msgid "Next 3d Cube Slider"
+msgstr "Volgende 3D -kubusschuif"
+
+msgid "Slider Settings"
+msgstr "Schuifinstellingen"
+
+msgid "Heading Settings"
+msgstr "Rechtsinstellingen"
+
+msgid "Content Settings"
+msgstr "Inhoudsinstellingen"
+
+msgid "Heading"
+msgstr "Kop"
+
+msgid "Slide Shadows"
+msgstr "Schuifschaduwen"
+
+msgid "Shadow"
+msgstr "Schaduw"
+
+msgid "Shadow Offset"
+msgstr "Schaduw offset"
+
+msgid "Shadow Scale"
+msgstr "Schaduwschaal"
+
+msgid "Slider Item"
+msgstr "Schuifregelaar item"
+
+msgid "Input Pre Heading text"
+msgstr "Voer Pre -koptekst in"
+
+msgid "Adjust the position of the offer."
+msgstr "Pas de positie van het aanbod aan."
+
+msgid "Next Business Hour"
+msgstr "Volgende zakelijke uur"
+
+msgid "Separator"
+msgstr "Scheider"
+
+msgid "Divider"
+msgstr "Verdeler"
+
+msgid "Day"
+msgstr "Dag"
+
+msgid "Time"
+msgstr "Tijd"
+
+msgid "Use Striped Background"
+msgstr "Gebruik gestreepte achtergrond"
+
+msgid "Striped Odd Background Color"
+msgstr "Gestreepte vreemde achtergrondkleur"
+
+msgid "Striped Even Background Color"
+msgstr "Gestreepte zelfs achtergrondkleur"
+
+msgid "Solid"
+msgstr "Stevig"
+
+msgid "Dotted"
+msgstr "Bezaaid"
+
+msgid "Dashed"
+msgstr "Stippeld"
+
+msgid "Double"
+msgstr "Dubbele"
+
+msgid "Groove"
+msgstr "Groef"
+
+msgid "Ridge"
+msgstr "Nok"
+
+msgid "Inset"
+msgstr "Inzet"
+
+msgid "Outset"
+msgstr "Begin"
+
+msgid "Width"
+msgstr "Breedte"
+
+msgid "Here you can define a custom color for your separator."
+msgstr "Hier kunt u een aangepaste kleur voor uw separator definiëren."
+
+msgid "Gap Spacing"
+msgstr "Gap -afstand"
+
+msgid "Here you can define a custom color for your divider."
+msgstr "Hier kunt u een aangepaste kleur definiëren voor uw verdeler."
+
+msgid "Item Padding"
+msgstr "Itemvulling"
+
+msgid ""
+"Adjust padding to specific values, or leave blank to use the default padding."
+msgstr ""
+"Pas de vulling aan op specifieke waarden aan, of laat leeg staan om de "
+"standaardvulling te gebruiken."
+
+msgid "Business Hour Item"
+msgstr "Zakelijke uuritem"
+
+msgid "The time of the day"
+msgstr "De tijd van de dag"
+
+msgid "The day"
+msgstr "De dag"
+
+msgid "Next Coverflow Slider"
+msgstr "Volgende coverflow schuifregelaar"
+
+msgid "Text Settings"
+msgstr "Tekstinstellingen"
+
+msgid "Conent"
+msgstr "Conent"
+
+msgid "Center slide"
+msgstr "Middenglijbaan"
+
+msgid "Auto Height"
+msgstr "Auto -hoogte"
+
+msgid "Select on or off to control grab cursor"
+msgstr "Selecteer in of uit om grijp cursor te besturen"
+
+msgid "Select on or off to control pause on hover function."
+msgstr "Selecteer in of uit om pauze te besturen op de hoverfunctie."
+
+msgid "Use Slide Shadows"
+msgstr "Gebruik schuifschaduwen"
+
+msgid "Slide Rotate"
+msgstr "Schuif roteren"
+
+msgid "Slide Stretch"
+msgstr "Dia stretch"
+
+msgid "Slide Depth"
+msgstr "Schuifdiepte"
+
+msgid "Background"
+msgstr "Achtergrond"
+
+msgid "Image Background Gradient"
+msgstr "Afbeelding achtergrondgradiënt"
+
+msgid "Coverflow slider item"
+msgstr "Coverflow schuifregelaar item"
+
+msgid "Slider Elements"
+msgstr "Schuifregelaar elementen"
+
+msgid "Select Layout"
+msgstr "Selecteer een lay -out"
+
+msgid "Select the layouts"
+msgstr "Selecteer de lay -outs"
+
+msgid "Text Inside The Image"
+msgstr "Tekst in de afbeelding"
+
+msgid "Text Below The Image"
+msgstr "Tekst onder de afbeelding"
+
+msgid "Next Feature List"
+msgstr "Volgende functielijst"
+
+msgid "Icon Settings"
+msgstr "Pictograminstellingen"
+
+msgid "Title Settings"
+msgstr "Titelinstellingen"
+
+msgid "Icon/Number"
+msgstr "Pictogram/nummer"
+
+msgid "Icon Box Shadow"
+msgstr "Pictogram Box Shadow"
+
+msgid "Select the color of the icon."
+msgstr "Selecteer de kleur van het pictogram."
+
+msgid "Icon Background Color"
+msgstr "Pictogram achtergrondkleur"
+
+msgid "Select the background color of the icon."
+msgstr "Selecteer de achtergrondkleur van het pictogram."
+
+msgid "Select the background color of the image."
+msgstr "Selecteer de achtergrondkleur van de afbeelding."
+
+msgid "Adjust the width of the image."
+msgstr "Pas de breedte van de afbeelding aan."
+
+msgid "Item Margin"
+msgstr "Itemmarge"
+
+msgid "Feature List Item"
+msgstr "Functielijstitem"
+
+msgid "Use Number Index"
+msgstr "Gebruik nummerindex"
+
+msgid ""
+"Toggle Yes or No to use number index in feature list, if you want to use "
+"image, disable this button."
+msgstr ""
+"Schakel ja of nee om de nummerindex in de functielijst te gebruiken, als u "
+"de afbeelding wilt gebruiken, schakelt u deze knop uit."
+
+msgid "Number"
+msgstr "Nummer"
+
+msgid ""
+"Toggle Yes or No to use image instead of icon or number index, To use number "
+"index,disable this button, you will see the number option."
+msgstr ""
+"Schakel ja of nee om de afbeelding te gebruiken in plaats van het pictogram- "
+"of nummerindex, om de nummerindex te gebruiken, deze knop uitschakelen, ziet "
+"u de nummeroptie."
+
+msgid "Next Floating Element"
+msgstr "Volgende zwevend element"
+
+msgid "Floating Item"
+msgstr "Drijvend item"
+
+msgid "Animation Settings"
+msgstr "Animatie -instellingen"
+
+msgid "Use Text"
+msgstr "Gebruik tekst"
+
+msgid "Input text"
+msgstr "Voer tekst in"
+
+msgid "Use Default Animation"
+msgstr "Gebruik standaardanimatie"
+
+msgid "Select the floting shape effect"
+msgstr "Selecteer het drijvende vormeffect"
+
+msgid "Effect 1"
+msgstr "Effect 1"
+
+msgid "Effect 2"
+msgstr "Effect 2"
+
+msgid "Up Down"
+msgstr "Op neer"
+
+msgid "Move Left/Right"
+msgstr "Ga naar links/rechts"
+
+msgid "Pulse"
+msgstr "Puls"
+
+msgid "Left/Right"
+msgstr "Links rechts"
+
+msgid "Rotate"
+msgstr "Draaien"
+
+msgid "Custom"
+msgstr "Aangepast"
+
+msgid "Floting Effect"
+msgstr "Drijvend effect"
+
+msgid "Iteration Count Number"
+msgstr "Iteratietellingnummer"
+
+msgid "Adjust the iteration count number of the animation"
+msgstr "Pas het aantal iteratie aan van de animatie"
+
+msgid "Adjust the horizontal position of animation item."
+msgstr "Pas de horizontale positie van animatie -item aan."
+
+msgid "Adjust the vertical position of animation item."
+msgstr "Pas de verticale positie van animatie -item aan."
+
+msgid "Animation Duration"
+msgstr "Animatieduur"
+
+msgid "Adjust the duration of the animation"
+msgstr "Pas de duur van de animatie aan"
+
+msgid "Animation Direction"
+msgstr "Animatierichting"
+
+msgid "Select direction of the floting shape effect"
+msgstr "Selecteer de richting van het drijvende vormeffect"
+
+msgid "Normal"
+msgstr "Normaal"
+
+msgid "Reverse"
+msgstr "Achteruit"
+
+msgid "Alternate"
+msgstr "Afwisselend"
+
+msgid "Alternate Reverse"
+msgstr "Alternatief omgekeerde"
+
+msgid "Initial"
+msgstr "Voorletter"
+
+msgid "Inherit"
+msgstr "Erven"
+
+msgid "Animation Iteration Count"
+msgstr "Animatie -iteratietelling"
+
+msgid "Infinite"
+msgstr "Oneindig"
+
+msgid "Animation Timing Effect"
+msgstr "Animatietiming -effect"
+
+msgid "Ease"
+msgstr "Gemak"
+
+msgid "Ease In"
+msgstr "In"
+
+msgid "Ease Out"
+msgstr "Afdoen"
+
+msgid "Ease In Out"
+msgstr "Gemak in"
+
+msgid "Next Price List"
+msgstr "Volgende prijslijst"
+
+msgid "Price"
+msgstr "Prijs"
+
+msgid "Price Box Shadow"
+msgstr "Prijsbox schaduw"
+
+msgid "Image Gap Spacing"
+msgstr "Afbeeldingsgapafstand"
+
+msgid "Vertical Alignment"
+msgstr "Verticale uitlijning"
+
+msgid ""
+"This setting determines the vertical alignment of your content. Your content "
+"can either be align to the top, vertically centered, or aligned to the "
+"bottom."
+msgstr "Deze instelling bepaalt de verticale uitlijning van uw inhoud."
+
+msgid "Price List Item"
+msgstr "Prijslijstitem"
+
+msgid "Price of the item"
+msgstr "Prijs van het artikel"
+
+msgid "Next Promo Box"
+msgstr "Volgende promovox"
+
+msgid "Offer"
+msgstr "Aanbod"
+
+msgid "Pre Heading Settings"
+msgstr "Pre -kop instellingen"
+
+msgid "Post Heading Settings"
+msgstr "Post de kop instellingen"
+
+msgid "Offer Settings"
+msgstr "Biedingsinstellingen"
+
+msgid "Pre Heading"
+msgstr "Pre -kop"
+
+msgid "Post Heading"
+msgstr "Posting"
+
+msgid "Title One Box Shadow"
+msgstr "Titel One Box Shadow"
+
+msgid "Title Two Box Shadow"
+msgstr "Titel Twee Box Shadow"
+
+msgid "Title Three Box Shadow"
+msgstr "Titel Three Box Shadow"
+
+msgid "Content Box Shadow"
+msgstr "Inhoudsbox schaduw"
+
+msgid "Offer Box Shadow"
+msgstr "Bied Box Shadow aan"
+
+msgid "Input Heading text"
+msgstr "Invoertekst invoer"
+
+msgid "Input Post Heading text"
+msgstr "Invoer Post koptekst"
+
+msgid "Use Offer"
+msgstr "Gebruiksaanbieding"
+
+msgid "Offer Text"
+msgstr "Bied tekst aan"
+
+msgid "Input Offer Text"
+msgstr "Invoeraanbieding tekst"
+
+msgid "Offer Background"
+msgstr "Bied achtergrond aan"
+
+msgid "Pre Heading Margin"
+msgstr "Pre -kopmarge"
+
+msgid "Pre Heading Padding"
+msgstr "Vulling voorafgaand aan de kop"
+
+msgid "Post Heading Margin"
+msgstr "Post de kopmarge"
+
+msgid "Post Heading Padding"
+msgstr "Post -kopvulling"
+
+msgid "Offer Margin"
+msgstr "Bieden marge"
+
+msgid "Offer Padding"
+msgstr "Aanbieding vulling"
+
+msgid "Offer Width"
+msgstr "Biedbreedte"
+
+msgid "Adjust the width of the offer within the team."
+msgstr "Pas de breedte van het aanbod binnen het team aan."
+
+msgid "Offer Height"
+msgstr "Bied een hoogte"
+
+msgid "Adjust the height of the offer within the team."
+msgstr "Pas de hoogte van het aanbod binnen het team aan."
+
+msgid "Next Testimonial Slider"
+msgstr "Volgende getuigenisschuif"
+
+msgid "Quote"
+msgstr "Citaat"
+
+msgid "Rating Settings"
+msgstr "Beoordelingsinstellingen"
+
+msgid "Position Text"
+msgstr "Positie tekst"
+
+msgid "Description Text"
+msgstr "Beschrijving Tekst"
+
+msgid "Rating"
+msgstr "Beoordeling"
+
+msgid "Review"
+msgstr "Beoordeling"
+
+msgid "Choose Yes or No to use arrow navigation."
+msgstr "Kies ja of nee om pijlnavigatie te gebruiken."
+
+msgid "Use Mouse Wheel Navigation"
+msgstr "Gebruik muiswielnavigatie"
+
+msgid "Choose enable to change the slide with mouse scroll."
+msgstr "Kies inschakelen om de dia te wijzigen met muis scroll."
+
+msgid "Use Keyboard Navigation"
+msgstr "Gebruik toetsenbordnavigatie"
+
+msgid ""
+"Choose Enable to use keyboard navigation.To use keyboard navigation, use "
+"left and right arrow key to change the slide."
+msgstr ""
+"Kies inschakelen om toetsenbordnavigatie te gebruiken. Om "
+"toetsenbordnavigatie te gebruiken, gebruik de pijl met links en rechts om de "
+"dia te wijzigen."
+
+msgid "Background Width"
+msgstr "Achtergrondbreedte"
+
+msgid "Adjust the width of the background width."
+msgstr "Pas de breedte van de achtergrondbreedte aan."
+
+msgid "Select Star Color"
+msgstr "Selecteer de sterrenkleur"
+
+msgid "Size"
+msgstr "Maat"
+
+msgid "Control the size of the star by increasing or decreasing the font size."
+msgstr ""
+"Controleer de grootte van de ster door de lettergrootte te verhogen of te "
+"verlagen."
+
+msgid "Adjust the width of the image width."
+msgstr "Pas de breedte van de beeldbreedte aan."
+
+msgid "Adjust the font size of the icon."
+msgstr "Pas de lettergrootte van het pictogram aan."
+
+msgid "Testimonial Slider Item"
+msgstr "Testimonial Slider -item"
+
+msgid "Name Text"
+msgstr "Naam tekst"
+
+msgid "Description Background"
+msgstr "Beschrijving Achtergrond"
+
+msgid "Name Box Shadow"
+msgstr "Naam Box Shadow"
+
+msgid "Position Box Shadow"
+msgstr "Positiebox schaduw"
+
+msgid "Desc Box Shadow"
+msgstr "Desc Box Shadow"
+
+msgid "Title Text entered here will appear inside the module."
+msgstr "Titel tekst die hier is ingevoerd, verschijnt in de module."
+
+msgid "Rating Position"
+msgstr "Beoordelingspositie"
+
+msgid "Choose rating Style"
+msgstr "Kies de beoordelingsstijl"
+
+msgid "Top of Description"
+msgstr "Bovenkant van de beschrijving"
+
+msgid "Bottom of Description"
+msgstr "Onderaan de beschrijving"
+
+msgid "Adjust the rating of the review."
+msgstr "Pas de beoordeling van de beoordeling aan."
+
+msgid "Rating Scale"
+msgstr "Schaal"
+
+msgid "Choose your rating scale"
+msgstr "Kies uw beoordelingsschaal"
+
+msgid "0 - 5"
+msgstr "0 - 5"
+
+msgid "0 - 10"
+msgstr "0 - 10"
+
+msgid "Next 3D Flip Box"
+msgstr "Volgende 3D -flipbox"
+
+msgid "3d Flip Elements"
+msgstr "3D flip -elementen"
+
+msgid "3D Flipbox Front Background"
+msgstr "3D flipbox voor achtergrond"
+
+msgid "3D Flipbox Back Background"
+msgstr "3D flipbox terug achtergrond"
+
+msgid "Front Border"
+msgstr "Voorgrens"
+
+msgid "Back Border"
+msgstr "Achtergrens"
+
+msgid "Image Backgrond Color"
+msgstr "Afbeelding achtergrondkleur"
+
+msgid "Right Left"
+msgstr "Rechts links"
+
+msgid "Left Right"
+msgstr "Links rechts"
+
+msgid "Bottom Top"
+msgstr "Onderkant bovenkant"
+
+msgid "Next Before After"
+msgstr "Volgende daarna"
+
+msgid "Before"
+msgstr "Voor"
+
+msgid "After"
+msgstr "Na"
+
+msgid "Slider"
+msgstr "Schuifregelaar"
+
+msgid "Labels"
+msgstr "Labels"
+
+msgid "Overlay"
+msgstr "Overlay"
+
+msgid "Before Image"
+msgstr "Voor afbeelding"
+
+msgid "Upload an image to display in the module."
+msgstr "Upload een afbeelding die moet worden weergegeven in de module."
+
+msgid "Before Image Alt Text"
+msgstr "Vóór afbeelding Alt -tekst"
+
+msgid "Define the HTML ALT text for the image."
+msgstr "Definieer de HTML ALT -tekst voor de afbeelding."
+
+msgid "After Image"
+msgstr "Na het beeld"
+
+msgid "Before Label"
+msgstr "Voor het label"
+
+msgid "The label for the before image."
+msgstr "Het label voor de afbeelding voor de afbeelding."
+
+msgid "After Label"
+msgstr "After label"
+
+msgid "The label for the after image."
+msgstr "Het label voor de na -afbeelding."
+
+msgid "Always Show Label"
+msgstr "Toon altijd label"
+
+msgid "Whether to always show the labels or only show them on hover."
+msgstr ""
+"Of je de labels altijd moet laten zien of ze alleen op Hover moet laten zien."
+
+msgid "Before Label Bg Color"
+msgstr "Vóór het label BG -kleur"
+
+msgid "After Label Bg Color"
+msgstr "Na label BG -kleur"
+
+msgid "Enable Overlay"
+msgstr "Schakel overlay in"
+
+msgid "Whether or not to show the overlay on hover."
+msgstr "Of de overlay op Hover al dan niet moet worden weergegeven."
+
+msgid "Overlay Color"
+msgstr "Overlay kleur"
+
+msgid "Slider Direction"
+msgstr "Schuifrichting"
+
+msgid "The direction of the slider."
+msgstr "De richting van de schuifregelaar."
+
+msgid "Slider Start Offset"
+msgstr "Schuifregelaar Start offset"
+
+msgid "The initial offset of the slider in percent."
+msgstr "De eerste offset van de schuifregelaar in procent."
+
+msgid "Move on Hover"
+msgstr "Ga op Hover"
+
+msgid "Whether or not to enable move on hover."
+msgstr "Of het nu wel of niet moet worden ingeschakeld."
+
+msgid "Move with Handle"
+msgstr "Beweeg met handvat"
+
+msgid "Whether or not to enable move with handle only."
+msgstr "Of u al dan niet alleen met hendel moet worden ingeschakeld."
+
+msgid "Click to Move"
+msgstr "Klik om te verplaatsen"
+
+msgid "Whether or not to enable click to move."
+msgstr "Of het in staat is om te klikken om te verplaatsen."
+
+msgid "Slider Color"
+msgstr "Schuifkleur"
+
+msgid "Handle Color"
+msgstr "Omgaan met kleur"
+
+msgid "Handle BG Color"
+msgstr "Behandel BG -kleur"
+
+msgid "Handle Icon Color"
+msgstr "Behandel de pictogramkleur"
+
+msgid "Next Blurb"
+msgstr "Volgende blurb"
+
+msgid "Background Heading"
+msgstr "Achtergrondtinstelling"
+
+msgid "Background Description"
+msgstr "Achtergrondbeschrijving"
+
+msgid "Background Image & Icon"
+msgstr "Achtergrond afbeelding"
+
+msgid "Background Image"
+msgstr "Achtergrond afbeelding"
+
+msgid "Background Icon"
+msgstr "Achtergrondpictogram"
+
+msgid "Background Button"
+msgstr "Achtergrondknop"
+
+msgid "Hover Effect"
+msgstr "Zweven effect"
+
+msgid "2d Effect"
+msgstr "2e effect"
+
+msgid "Tilt Effect"
+msgstr "Tilt effect"
+
+msgid "Pre"
+msgstr "Pre"
+
+msgid "Post"
+msgstr "Na"
+
+msgid "Image/Icon Spacing"
+msgstr "Afbeelding/pictogramafstand"
+
+msgid "Header Spacing"
+msgstr "Headerafstand"
+
+msgid "Header"
+msgstr "Koptekst"
+
+msgid "Body/Description Spacing"
+msgstr "Lichaam/beschrijvingafstand"
+
+msgid "Button Spacing"
+msgstr "Knopafstand"
+
+msgid "Post Heading Border"
+msgstr "Rand na de kop"
+
+msgid "Heading Border"
+msgstr "Kop grens"
+
+msgid "Pre Heading Border"
+msgstr "Pre -kop grens"
+
+msgid "Body Border"
+msgstr "Lichaamsgrens"
+
+msgid "Description Border"
+msgstr "Beschrijving Grens"
+
+msgid "Button Border"
+msgstr "Knoppenrand"
+
+msgid "Button Icon"
+msgstr "Knoppictogram"
+
+msgid "Button Hover"
+msgstr "Knop zweeft"
+
+msgid "2D"
+msgstr "2e"
+
+msgid "BG"
+msgstr "BG"
+
+msgid "Stroke"
+msgstr "Hartinfarct"
+
+msgid "Body Box Shadow"
+msgstr "Body Box Shadow"
+
+msgid "Attributes"
+msgstr "Attributen"
+
+msgid "Zindex"
+msgstr "Zindex"
+
+msgid "Pre Heading Enable"
+msgstr "Pre -kop inschakelen"
+
+msgid "Pre Heading Text"
+msgstr "Pre -kop tekst"
+
+msgid "Pre Heading Text entered here will appear inside the module."
+msgstr "De hier ingevoerde koptekst verschijnt in de module."
+
+msgid "Select Pre Heading Tag"
+msgstr "Selecteer Pre -koptag"
+
+msgid "Select the Pre heading tag, which you would like to use"
+msgstr "Selecteer de pre -koptag, die u wilt gebruiken"
+
+msgid "P"
+msgstr "P"
+
+msgid "Span"
+msgstr "Span"
+
+msgid "Main Heading entered here will appear inside the module."
+msgstr "Hoofdkitel die hier wordt ingevoerd, verschijnt in de module."
+
+msgid "Post Heading Enable"
+msgstr "Post -kop inschakelen"
+
+msgid "Post Heading Text"
+msgstr "Tekst na de kop"
+
+msgid "Post Heading Text entered here will appear inside the module."
+msgstr "De koptekst die hier is ingevoerd, verschijnt in de module."
+
+msgid "Select Post Heading Tag"
+msgstr "Selecteer Post -koptag"
+
+msgid "Select the Post heading tag, which you would like to use"
+msgstr "Selecteer de koptag van de post, die u wilt gebruiken"
+
+msgid "Button Icon Placement"
+msgstr "Plaatsing van de knooppictogram"
+
+msgid "Choose where the button icon should be displayed within the button."
+msgstr "Kies waar het knoppictogram in de knop moet worden weergegeven."
+
+msgid "Bottom Center"
+msgstr "Middenonder"
+
+msgid "Right Top"
+msgstr "Rechtsboven"
+
+msgid "Right Center"
+msgstr "Rechtscentrum"
+
+msgid "Right Bottom"
+msgstr "Rechts beneden"
+
+msgid "Use Icon Font Background Color"
+msgstr "Gebruik pictogram lettertype achtergrondkleur"
+
+msgid ""
+"If you would like to control the background color of the icon, you must "
+"first enable this option."
+msgstr ""
+"Als u de achtergrondkleur van het pictogram wilt regelen, moet u deze optie "
+"eerst inschakelen."
+
+msgid "Background Gradient Color"
+msgstr "Achtergrondgradiëntkleur"
+
+msgid "Use Image Background Color"
+msgstr "Gebruik afbeeldingskleur van afbeeldingen"
+
+msgid "Image Placement"
+msgstr "Afbeelding plaatsing"
+
+msgid "Text Container Width"
+msgstr "Tekstcontainerbreedte"
+
+msgid "Adjust the width of the text container width within the blurb."
+msgstr "Pas de breedte van de tekstcontainerbreedte in de blurb aan."
+
+msgid "Header Margin"
+msgstr "Headermarge"
+
+msgid "Header Padding"
+msgstr "Headervulling"
+
+msgid "Post Header Margin"
+msgstr "Post -headermarge"
+
+msgid "Post Header Padding"
+msgstr "Post -header vulling"
+
+msgid "Button Background Color"
+msgstr "Knop achtergrondkleur"
+
+msgid "Button Gradient Color"
+msgstr "Knopgradiëntkleur"
+
+msgid "Background Heading Color"
+msgstr "Achtergrondkopkleur"
+
+msgid "Gradient Heading Color"
+msgstr "Gradiënt kopkleur"
+
+msgid "Background Description Color"
+msgstr "Achtergrondbeschrijving kleur"
+
+msgid "Gradient Description Color"
+msgstr "Gradiëntbeschrijving kleur"
+
+msgid "Show Icon"
+msgstr "Toon icoon"
+
+msgid "When enabled, this will add a custom icon within the button."
+msgstr ""
+"Wanneer ingeschakeld, voegt dit een aangepast pictogram toe in de knop."
+
+msgid "Pick a color to be used for the button icon."
+msgstr "Kies een kleur die moet worden gebruikt voor het knoppictogram."
+
+msgid "Button Icon Color"
+msgstr "Knooppictogram kleur"
+
+msgid "Here you can define a custom color for the button icon."
+msgstr "Hier kunt u een aangepaste kleur definiëren voor het knoppictogram."
+
+msgid "Only Show Icon On Hover for Button"
+msgstr "Toon alleen het pictogram op Hover voor de knop"
+
+msgid ""
+"By default, button icons are displayed on hover. If you would like button "
+"icons to always be displayed, then you can enable this option."
+msgstr ""
+"Standaard worden knoppictogrammen weergegeven op Hover. Als u "
+"knoppictogrammen wilt die altijd worden weergegeven, kunt u deze optie "
+"inschakelen."
+
+msgid "Hover Effect Enable"
+msgstr "Hover -effect inschakelen"
+
+msgid "Select 2D Hover Effect"
+msgstr "Selecteer 2D Hover -effect"
+
+msgid "Here you can adjust the hover effect."
+msgstr "Hier kunt u het Hover -effect aanpassen."
+
+msgid "Backward"
+msgstr "Achteruit"
+
+msgid "Bob"
+msgstr "Borderen"
+
+msgid "Bounce In"
+msgstr "Stuiteren in"
+
+msgid "Bounce Out"
+msgstr "Stuiteren"
+
+msgid "Buzz"
+msgstr "Ophef"
+
+msgid "Buzz Out"
+msgstr "Zoemen"
+
+msgid "Float"
+msgstr "Vlot"
+
+msgid "Forward"
+msgstr "Vooruit"
+
+msgid "Grow"
+msgstr "Groeien"
+
+msgid "Grow Rotate"
+msgstr "Groeien roteren"
+
+msgid "Hang"
+msgstr "Hangen"
+
+msgid "Pop"
+msgstr "Knal"
+
+msgid "Pulse Grow"
+msgstr "Puls groeit"
+
+msgid "Pulse Shrink"
+msgstr "Puls krimpen"
+
+msgid "Push"
+msgstr "Duw"
+
+msgid "Shrink"
+msgstr "Krimpen"
+
+msgid "Sink"
+msgstr "Wasbak"
+
+msgid "Skew"
+msgstr "Scheef"
+
+msgid "Skew Backward"
+msgstr "Achteruit"
+
+msgid "Skew Forward"
+msgstr "Schudden"
+
+msgid "Wobble Bottom"
+msgstr "Wiebelen bodem"
+
+msgid "Wobble Horizontal"
+msgstr "Horizontaal wiebelen"
+
+msgid "Wobble Skew"
+msgstr "Wobble SkEw"
+
+msgid "Wobble Top"
+msgstr "Wiebelende top"
+
+msgid "Wobble To Bottom Right"
+msgstr "Wiebelen naar rechtsonder"
+
+msgid "Wobble To Top Right"
+msgstr "Wobble naar rechts"
+
+msgid "Wobble Vertical"
+msgstr "Wobble Vertical"
+
+msgid "Tilt Effect Enable"
+msgstr "Tilt -effect inschakelen"
+
+msgid "Glare Enable"
+msgstr "Schittering inschakelen"
+
+msgid "Max Glare"
+msgstr "Max schittering"
+
+msgid "Tilt Reverse"
+msgstr "Kantel omgekeerd"
+
+msgid "False"
+msgstr "Vals"
+
+msgid "True"
+msgstr "WAAR"
+
+msgid "Tilt Perspective"
+msgstr "Kantelperspectief"
+
+msgid "Tilt Max"
+msgstr "Tilt Max"
+
+msgid "Tilt Speed"
+msgstr "Kantelsnelheid"
+
+msgid "Tilt StartX"
+msgstr "Tilt Startx"
+
+msgid "Tilt StartY"
+msgstr "Tilt Beginner"
+
+msgid "Tilt Scale"
+msgstr "Tiltschaal"
+
+msgid "Select"
+msgstr "Uitkiezen"
+
+msgid "Select Background Hover Effect"
+msgstr "Selecteer achtergrondafwijkingseffect"
+
+msgid "Fade"
+msgstr "Vervagen"
+
+msgid "Sweep To Right"
+msgstr "Vegen naar rechts"
+
+msgid "Sweep To Left"
+msgstr "Vegen naar links"
+
+msgid "Sweep To Bottom"
+msgstr "Naar beneden vegen"
+
+msgid "Sweep To Top"
+msgstr "Vegen naar de top"
+
+msgid "Bounce To Right"
+msgstr "Stuiteren naar rechts"
+
+msgid "Bounce To Left"
+msgstr "Stuiteren naar links"
+
+msgid "Bounce To Bottom"
+msgstr "Stuiteren tot bodem"
+
+msgid "Bounce To Top"
+msgstr "Stuiteren naar de top"
+
+msgid "Radial Out"
+msgstr "Uitstralen"
+
+msgid "Radial In"
+msgstr "Radiaal in"
+
+msgid "Rectangle In"
+msgstr "Rechthoek in"
+
+msgid "Rectangle Out"
+msgstr "Rechthoek uit"
+
+msgid "Shutter In Horizontal"
+msgstr "Sluiter in horizontaal"
+
+msgid "Shutter Out Horizontal"
+msgstr "Horizontaal afsluiten"
+
+msgid "Shutter In Vertical"
+msgstr "Sluiter in verticaal"
+
+msgid "Shutter Out Vertical"
+msgstr "Sluit verticaal"
+
+msgid "The color of the Background."
+msgstr "De kleur van de achtergrond."
+
+msgid "Select Background Hover Color"
+msgstr "Selecteer achtergrond Hover -kleur"
+
+msgid "Select Stroke Hover Effect"
+msgstr "Selecteer een slagopvolgeffect"
+
+msgid "Trim"
+msgstr "Trimmen"
+
+msgid "Ripple Out"
+msgstr "Uitrippen"
+
+msgid "Ripple In"
+msgstr "Rimpelen"
+
+msgid "Underline From Left"
+msgstr "Onderstreept van links"
+
+msgid "Underline From Center"
+msgstr "Onderstreep van het centrum"
+
+msgid "Underline From Right"
+msgstr "Onderstreep van rechts"
+
+msgid "Reveal"
+msgstr "Onthullen"
+
+msgid "Underline Reveal"
+msgstr "Ondersteuning onthullen"
+
+msgid "Overline Reveal"
+msgstr "Overtollige onthulling"
+
+msgid "Overline From Left"
+msgstr "Overtollig van links"
+
+msgid "Overline From Center"
+msgstr "Overline van het centrum"
+
+msgid "Overline From Right"
+msgstr "Overtollig van rechts"
+
+msgid "Border Color"
+msgstr "Rand kleur"
+
+msgid "The color of the Border."
+msgstr "De kleur van de grens."
+
+msgid "Select Icons Hover Effect"
+msgstr "Selecteer Pictogrammen Heven effect"
+
+msgid "Icon Back"
+msgstr "Pictogram terug"
+
+msgid "Icon Forward"
+msgstr "Pictogram vooruit"
+
+msgid "Icon Down"
+msgstr "Icon naar beneden"
+
+msgid "Icon Up"
+msgstr "Iconeren"
+
+msgid "Icon Drop"
+msgstr "Icon druppel"
+
+msgid "Icon Float Away"
+msgstr "Icon drijft weg"
+
+msgid "Icon Sink Away"
+msgstr "Icoon zinken weg"
+
+msgid "Icon Grow"
+msgstr "Icon groeit"
+
+msgid "Icon Shrink"
+msgstr "Pictogram krimpen"
+
+msgid "Icon pulse"
+msgstr "Pictogrampuls"
+
+msgid "Icon Pulse Grow"
+msgstr "Pictogrampuls groeit"
+
+msgid "Icon Pulse Shrink"
+msgstr "Pictogrammen krimpen"
+
+msgid "Icon Push"
+msgstr "Pictogram duw"
+
+msgid "Icon Pop"
+msgstr "Icoon pop"
+
+msgid "Icon Bounce"
+msgstr "Pictogram stuiter"
+
+msgid "Icon Rotate"
+msgstr "Pictogram roteren"
+
+msgid "Icon Grow Rotate"
+msgstr "Pictogram groeit roteren"
+
+msgid "Icon Float"
+msgstr "Icon float"
+
+msgid "Icon Sink"
+msgstr "Pictogram gootsteen"
+
+msgid "Icon Bob"
+msgstr "Icoon bob"
+
+msgid "Icon Hang"
+msgstr "Icon hangen"
+
+msgid "Icon Wobble Horizontal"
+msgstr "Icon Wobble horizontaal"
+
+msgid "Icon Wobble Vertical"
+msgstr "Icoon wobble verticaal"
+
+msgid "Icon Buzz"
+msgstr "Icon buzz"
+
+msgid "Icon Buzz Out"
+msgstr "Icon zoemt uit"
+
+msgid "Image Z Index"
+msgstr "Afbeelding z -index"
+
+msgid ""
+"Here you can control element position on the z axis. Elements with higher z-"
+"index values will sit atop elements with lower z-index values."
+msgstr "Hier kunt u de elementpositie op de z -as regelen."
+
+msgid "Icon Z Index"
+msgstr "Icon z -index"
+
+msgid "Heading Z Index"
+msgstr "Kop Z index"
+
+msgid "Button Z Index"
+msgstr "Knop z index"
+
+msgid "Next Button"
+msgstr "Volgende knop"
+
+msgid "Font"
+msgstr "Lettertype"
+
+msgid "Hover"
+msgstr "Zweven"
+
+msgid "Border"
+msgstr "Grens"
+
+msgid "Button Wrapper"
+msgstr "Knop wikkel"
+
+msgid "Title entered here will appear inside the module."
+msgstr "Titel die hier is ingevoerd, verschijnt in de module."
+
+msgid "Next Circular Image Hover"
+msgstr "Volgende cirkelvormige afbeelding zweeft"
+
+msgid "Caption Background"
+msgstr "Bijschrift achtergrond"
+
+msgid "Image Round Edge"
+msgstr "Afbeeldingsronde rand"
+
+msgid "Select Image Hover"
+msgstr "Selecteer Afbeelding Hover"
+
+msgid "Effect 3"
+msgstr "Effect 3"
+
+msgid "Effect 4"
+msgstr "Effect 4"
+
+msgid "Effect 5"
+msgstr "Effect 5"
+
+msgid "Effect 6"
+msgstr "Effect 6"
+
+msgid "Effect 7"
+msgstr "Effect 7"
+
+msgid "Effect 8"
+msgstr "Effect 8"
+
+msgid "Effect 9"
+msgstr "Effect 9"
+
+msgid "Effect 10"
+msgstr "Effect 10"
+
+msgid "Effect 11"
+msgstr "Effect 11"
+
+msgid "Effect 12"
+msgstr "Effect 12"
+
+msgid "Effect 13"
+msgstr "Effect 13"
+
+msgid "Effect 14"
+msgstr "Effect 14"
+
+msgid "Effect 15"
+msgstr "Effect 15"
+
+msgid "Effect 16"
+msgstr "Effect 16"
+
+msgid "Effect 17"
+msgstr "Effect 17"
+
+msgid "Effect 18"
+msgstr "Effect 18"
+
+msgid "Effect 19"
+msgstr "Effect 19"
+
+msgid "Select Image Hover Direction"
+msgstr "Selecteer de richting van de afbeelding"
+
+msgid "Here you can adjust the hover effect direction."
+msgstr "Hier kunt u de richting van het Hover -effect aanpassen."
+
+msgid "Left to Right"
+msgstr "Van links naar rechts"
+
+msgid "Right to Left"
+msgstr "Rechts naar links"
+
+msgid "Top to Bottom"
+msgstr "Boven naar beneden"
+
+msgid "Bottom to Top"
+msgstr "Van onder tot boven"
+
+msgid "Scale Up"
+msgstr "Vergroot"
+
+msgid "Scale Down"
+msgstr "Neerschieten"
+
+msgid "Scale Down Up"
+msgstr "Opscherpen"
+
+msgid "From Left and Right"
+msgstr "Van links en rechts"
+
+msgid "Caption Background Color"
+msgstr "Bijschrift achtergrondkleur"
+
+msgid "Caption Gradient Color"
+msgstr "Bijschrift Gradiëntkleur"
+
+msgid "Box Shadow Horizontal Position"
+msgstr "Box Shadow Horizontale positie"
+
+msgid "Box Shadow Vertical Position"
+msgstr "Doos schaduw verticale positie"
+
+msgid "Box Shadow Blur Strength"
+msgstr "Doos schaduw Blur -kracht"
+
+msgid "Box Shadow Spread Strength"
+msgstr "Doos schaduw spread kracht"
+
+msgid "Shadow Color"
+msgstr "Schaduwkleur"
+
+msgid "Next FB Comment"
+msgstr "Volgende FB -opmerking"
+
+msgid "Comments Elements"
+msgstr "Opmerkingen Elementen"
+
+msgid "URL"
+msgstr "Url"
+
+msgid "Input Comments URL."
+msgstr "Input reacties URL."
+
+msgid "Number Of Post"
+msgstr "Aantal post"
+
+msgid "Order By"
+msgstr "Bestellen door"
+
+msgid "Reverse Time"
+msgstr "Omgekeerde tijd"
+
+msgid "Next Dual Button"
+msgstr "Volgende dubbele knop"
+
+msgid "Button One"
+msgstr "Knop één"
+
+msgid "Button Two"
+msgstr "Knop twee"
+
+msgid "Background One"
+msgstr "Achtergrond"
+
+msgid "Background Two"
+msgstr "Achtergrond twee"
+
+msgid "Hover One"
+msgstr "Zweef er een"
+
+msgid "Hover Two"
+msgstr "Zweef twee"
+
+msgid "Border One"
+msgstr "Grens"
+
+msgid "Border Two"
+msgstr "Grens twee"
+
+msgid "Spacing"
+msgstr "Spatiëring"
+
+msgid "Button One Link"
+msgstr "Knop één link"
+
+msgid "Button Two Link"
+msgstr "Knop twee link"
+
+msgid "Introducing Divi Next Dual Button module"
+msgstr "Introductie van divi volgende dubbele knopmodule"
+
+msgid "Input your desired button text."
+msgstr "Voer de gewenste knoptekst in."
+
+msgid "Input the destination URL for your button."
+msgstr "Voer de bestemmings -URL in voor uw knop."
+
+msgid "Pick an icon to be used for the button."
+msgstr "Kies een pictogram dat voor de knop moet worden gebruikt."
+
+msgid "Enable Background Color"
+msgstr "Schakel achtergrondkleur in"
+
+msgid "Pick a color to use for the button background."
+msgstr "Kies een kleur om te gebruiken voor de achtergrond van de knop."
+
+msgid "Enable Gradient Color"
+msgstr "Schakel gradiëntkleur in"
+
+msgid ""
+"This margin adds extra space to the outside of the button one, increasing "
+"the distance between the other button and other items on the page."
+msgstr ""
+"Deze marge voegt extra ruimte toe aan de buitenkant van de knop één, "
+"waardoor de afstand tussen de andere knop en andere items op de pagina wordt "
+"verhoogd."
+
+msgid ""
+"Padding adds extra space to the inside of the button one, increasing the "
+"distance between the edge of the button and its inner contents."
+msgstr ""
+"Padding voegt extra ruimte toe aan de binnenkant van de knop één, waardoor "
+"de afstand tussen de rand van de knop en de innerlijke inhoud wordt vergroot."
+
+msgid ""
+"This margin adds extra space to the outside of the button two, increasing "
+"the distance between the other button and other items on the page."
+msgstr ""
+"Deze marge voegt extra ruimte toe aan de buitenkant van de knop twee, "
+"waardoor de afstand tussen de andere knop en andere items op de pagina wordt "
+"verhoogd."
+
+msgid ""
+"Padding adds extra space to the inside of the button two, increasing the "
+"distance between the edge of the button and its inner contents."
+msgstr ""
+"Padding voegt extra ruimte toe aan de binnenkant van de knop twee, waardoor "
+"de afstand tussen de rand van de knop en de innerlijke inhoud wordt vergroot."
+
+msgid "Down"
+msgstr "Omlaag"
+
+msgid "Up"
+msgstr "Omhoog"
+
+msgid "Drop"
+msgstr "Druppel"
+
+msgid "Float Away"
+msgstr "Wegdrijven"
+
+msgid "Sink Away"
+msgstr "Wegzinken"
+
+msgid "pulse"
+msgstr "puls"
+
+msgid "Bounce"
+msgstr "Stuiteren"
+
+msgid "Next FB Embedded Comment"
+msgstr "Volgende FB ingebedde opmerking"
+
+msgid "Comment Elements"
+msgstr "Commentaarelementen"
+
+msgid "Comment URL"
+msgstr "Reageer URL"
+
+msgid "Input Comment URL"
+msgstr "Input Reaction URL"
+
+msgid "Show Parent Comment"
+msgstr "Toon oudercommentaar"
+
+msgid "Lazy Loading"
+msgstr "Trage voortgang"
+
+msgid "Next FB Embedded Post"
+msgstr "Volgende FB ingebed post"
+
+msgid "Embed Post Elements"
+msgstr "Post -elementen insluiten"
+
+msgid "Post URL"
+msgstr "Post URL"
+
+msgid "Input Post URL."
+msgstr "Input Post URL."
+
+msgid "Include Text"
+msgstr "Tekst opnemen"
+
+msgid "Next FB Embedded Video"
+msgstr "Volgende FB ingebedde video"
+
+msgid "Video Elements"
+msgstr "Video -elementen"
+
+msgid "Video URL"
+msgstr "Video URL"
+
+msgid "Input Video URL."
+msgstr "Video -URL invoeren."
+
+msgid "Include Full Post"
+msgstr "Voeg volledige post toe"
+
+msgid "Allow Fullscreen"
+msgstr "Sta volledig scherm toe"
+
+msgid "Show Captions"
+msgstr "Toon bijschriften"
+
+msgid "Next FB Page"
+msgstr "Volgende FB -pagina"
+
+msgid "Page Elements"
+msgstr "Pagina -elementen"
+
+msgid "Page URL"
+msgstr "pagina URL"
+
+msgid "Tabs"
+msgstr "Tabbladen"
+
+msgid "Timeline"
+msgstr "Tijdlijn"
+
+msgid "Events"
+msgstr "Evenementen"
+
+msgid "Messages"
+msgstr "Berichten"
+
+msgid "Hide Cover Photo"
+msgstr "Cover Foto verbergen"
+
+msgid "Show Profile Photo"
+msgstr "Toon profielfoto"
+
+msgid "Show profile photos when friends like this."
+msgstr "Toon profielfoto's wanneer vrienden zoals deze."
+
+msgid "Use Small Header"
+msgstr "Gebruik een kleine koptekst"
+
+msgid "Use the small header instead."
+msgstr "Gebruik in plaats daarvan de kleine koptekst."
+
+msgid "Fit in Container"
+msgstr "Passen in container"
+
+msgid "Try to fit inside the container width."
+msgstr "Probeer in de containerbreedte te passen."
+
+msgid "Height"
+msgstr "Hoogte"
+
+msgid "Next FB Share Button"
+msgstr "Volgende FB Share -knop"
+
+msgid "Share Button Elements"
+msgstr "Deel knopelementen"
+
+msgid "Input post URL."
+msgstr "Input Post URL."
+
+msgid "Small"
+msgstr "Klein"
+
+msgid "Large"
+msgstr "Groot"
+
+msgid "Layout"
+msgstr "Lay -out"
+
+msgid "Button Count"
+msgstr "Knoptelling"
+
+msgid "Box Count"
+msgstr "Doos tellen"
+
+msgid "Next Text Gradient"
+msgstr "Volgende tekstgradiënt"
+
+msgid "Fonts"
+msgstr "Lettertypen"
+
+msgid "Reveal Effect"
+msgstr "Effect onthullen"
+
+msgid "Title CSS"
+msgstr "Titel CSS"
+
+msgid "Gradient Title"
+msgstr "Gradiënttitel"
+
+msgid "Title entered here will appear with gradient color."
+msgstr "Titel die hier wordt ingevoerd, verschijnt met gradiëntkleur."
+
+msgid "Enable Reveal Effect"
+msgstr "Schakel het effect in"
+
+msgid "Select to turn Reveal Effect on."
+msgstr "Selecteer om het effect op te zetten."
+
+msgid "Reveal Effect Color"
+msgstr "Onthul effectkleur"
+
+msgid ""
+"Choose a custom color to reveal your text with the function of reveal effect."
+msgstr ""
+"Kies een aangepaste kleur om uw tekst te onthullen met de functie van "
+"onthullen effect."
+
+msgid "Text Hover Effect"
+msgstr "Sms -zweefeffect"
+
+msgid "Select if you would like to use text hover effect"
+msgstr "Selecteer of u tekstopname -effect wilt gebruiken"
+
+msgid "Select Hover Effect"
+msgstr "Selecteer Hover -effect"
+
+msgid "Next Image Accordion"
+msgstr "Volgende afbeelding accordeon"
+
+msgid "Accordion Settings"
+msgstr "Accordeoninstellingen"
+
+msgid "Use Overlay"
+msgstr "Gebruik overlay"
+
+msgid "The color of the Overlay."
+msgstr "De kleur van de overlay."
+
+msgid "Next Image Accordion Item"
+msgstr "Volgende afbeelding accordeon Item"
+
+msgid "Accordion"
+msgstr "Accordeon"
+
+msgid "Icon Background"
+msgstr "Pictogramachtergrond"
+
+msgid "Icon Image"
+msgstr "Pictogramafbeelding"
+
+msgid "Upload an image to display at the top of your team overlay."
+msgstr "Upload een afbeelding die bovenaan uw teamoverlay wordt weergegeven."
+
+msgid "Desccription"
+msgstr "Beschrijving"
+
+msgid "Here you can choose whether image set below should be used."
+msgstr ""
+"Hier kunt u kiezen of de onderstaande afbeeldingsset moet worden gebruikt."
+
+msgid "Next Image Hover Box"
+msgstr "Volgende afbeelding Hoverbox"
+
+msgid "Overlay Background"
+msgstr "Overlay achtergrond"
+
+msgid "Heading Background"
+msgstr "Rechtsachtergrond"
+
+msgid "Caption Height"
+msgstr "Bijschrifthoogte"
+
+msgid "Heading Background Color"
+msgstr "Rechtsachtige achtergrondkleur"
+
+msgid "Overlay Gradient Color"
+msgstr "Overlay gradiëntkleur"
+
+msgid "Heading Gradient Color"
+msgstr "Regelgradiëntkleur"
+
+msgid "From Top and Bottom"
+msgstr "Van boven en onder"
+
+msgid "Caption height"
+msgstr "Bijschrifthoogte"
+
+msgid "Next Image Icon Effect"
+msgstr "Volgende beeldpictogrameffect"
+
+msgid "Background Bottom"
+msgstr "Achtergrondbodem"
+
+msgid "Background Around"
+msgstr "Achtergrond rond"
+
+msgid "Focus"
+msgstr "Focus"
+
+msgid "Focus Text"
+msgstr "Focus -tekst"
+
+msgid "Icon 1"
+msgstr "Icon 1"
+
+msgid "Icon 2"
+msgstr "Icon 2"
+
+msgid "Icon 3"
+msgstr "Icon 3"
+
+msgid "Icon 4"
+msgstr "Icon 4"
+
+msgid "Icon Border"
+msgstr "Pictogram grens"
+
+msgid ""
+"Heading bold text entered here will appear inside the module after the "
+"heading text."
+msgstr ""
+"De hoofdtekst die hier is ingevoerd, verschijnt in de module na de koptekst."
+
+msgid "Zoe"
+msgstr "Zoe"
+
+msgid "Hera"
+msgstr "Hera"
+
+msgid "Winston"
+msgstr "Winston"
+
+msgid "Terry"
+msgstr "Terry"
+
+msgid "Phoebe"
+msgstr "Phoebe"
+
+msgid "Kira"
+msgstr "Kira"
+
+msgid "Bottom Background Color"
+msgstr "Onderste achtergrondkleur"
+
+msgid "Background Overlay Gradient"
+msgstr "Achtergrondoverlay gradiënt"
+
+msgid "Background Gradient"
+msgstr "Achtergrondgradiënt"
+
+msgid "Use Icon 1"
+msgstr "Gebruik pictogram 1"
+
+msgid "Icon 1 Link"
+msgstr "Pictogram 1 link"
+
+msgid "Icon 1 Link Target"
+msgstr "Pictogram 1 link doelwit"
+
+msgid "Use Icon 2"
+msgstr "Gebruik pictogram 2"
+
+msgid "Icon 2 Link"
+msgstr "Pictogram 2 link"
+
+msgid "Icon 2 Link Target"
+msgstr "Pictogram 2 linkdoel"
+
+msgid "Use Icon 3"
+msgstr "Gebruik pictogram 3"
+
+msgid "Icon 3 Link"
+msgstr "Pictogram 3 link"
+
+msgid "Icon 3 Link Target"
+msgstr "Pictogram 3 linkdoel"
+
+msgid "Use Icon 4"
+msgstr "Gebruik pictogram 4"
+
+msgid "Icon 4 Link"
+msgstr "Icon 4 link"
+
+msgid "Icon 4 Link Target"
+msgstr "Pictogram 4 Linkdoel"
+
+msgid "Icon 1 color"
+msgstr "Icon 1 kleur"
+
+msgid "Icon 2 color"
+msgstr "Icon 2 kleur"
+
+msgid "Icon 3 color"
+msgstr "Icoon 3 kleur"
+
+msgid "Icon 4 color"
+msgstr "Icon 4 kleur"
+
+msgid "Focus Text Padding"
+msgstr "Focus tekstvulling"
+
+msgid "Icon Spacing"
+msgstr "Iconafstand"
+
+msgid "Icon Line Height"
+msgstr "Pictogramlijnhoogte"
+
+msgid "Use Icon Background"
+msgstr "Gebruik pictogramachtergrond"
+
+msgid "Next Image Scroll"
+msgstr "Volgende afbeelding Scroll"
+
+msgid "Background Position"
+msgstr "Achtergrondpositie"
+
+msgid "Button Space"
+msgstr "Knoopruimte"
+
+msgid "Animation"
+msgstr "Animatie"
+
+msgid ""
+"Upload your desired image, or type in the URL to the image you would like to "
+"display."
+msgstr ""
+"Upload uw gewenste afbeelding of typ de URL naar de afbeelding die u wilt "
+"weergeven."
+
+msgid "Image Overlay"
+msgstr "Afbeelding overlay"
+
+msgid ""
+"If enabled, an overlay color and icon will be displayed when a visitors "
+"hovers over the image"
+msgstr ""
+"Indien ingeschakeld, worden een overlaykleur en pictogram weergegeven "
+"wanneer een bezoekers over de afbeelding zweeft"
+
+msgid "Hover Overlay Color"
+msgstr "Zwevende overlay kleur"
+
+msgid "Here you can define a custom color for the overlay"
+msgstr "Hier kunt u een aangepaste kleur definiëren voor de overlay"
+
+msgid "Image Gradient"
+msgstr "Beeldgradiënt"
+
+msgid "Adjust the width of the image within the Scroll Image."
+msgstr "Pas de breedte van de afbeelding in het scroll -beeld aan."
+
+msgid "Select the types of background position"
+msgstr "Selecteer de soorten achtergrondpositie"
+
+msgid "Top Bottom"
+msgstr "Bovenkant"
+
+msgid "Next FB Like Button"
+msgstr "Volgende FB Like -knop"
+
+msgid "Like Elements"
+msgstr "Zoals elementen"
+
+msgid "Input Page URL."
+msgstr "Input Page URL."
+
+msgid "Include Share Button"
+msgstr "Neem de aandelenknop op"
+
+msgid "Select the layout of the like button"
+msgstr "Selecteer de lay -out van de like -knop"
+
+msgid "Action"
+msgstr "Actie"
+
+msgid "Select the action of the like button"
+msgstr "Selecteer de actie van de like -knop"
+
+msgid "Like"
+msgstr "Leuk vinden"
+
+msgid "Recommend"
+msgstr "Aanbevelen"
+
+msgid "Select the size of the like button"
+msgstr "Selecteer de grootte van de like -knop"
+
+msgid "Next Masonry Gallery"
+msgstr "Volgende metselwerkgalerij"
+
+msgid "Images"
+msgstr "Afbeeldingen"
+
+msgid "Caption"
+msgstr "Ondertiteling"
+
+msgid "Grid"
+msgstr "Rooster"
+
+msgid "Caption Text"
+msgstr "Bijschrift Tekst"
+
+msgid "Gallery Item"
+msgstr "Galerijitem"
+
+msgid "Overlay Icon"
+msgstr "Overlay -pictogram"
+
+msgid "Choose the images that you would like to appear in the image gallery."
+msgstr "Kies de afbeeldingen die u in de beeldgalerij wilt verschijnen."
+
+msgid "Image Order"
+msgstr "Afbeeldingvolgorde"
+
+msgid ""
+"Select an ordering method for the gallery. This controls which gallery items "
+"appear first in the list."
+msgstr "Selecteer een bestelmethode voor de galerij."
+
+msgid "Random"
+msgstr "Willekeurig"
+
+msgid "Columns"
+msgstr "Kolommen"
+
+msgid "Gutter"
+msgstr "Goot"
+
+msgid " Overlay Icon Color"
+msgstr "Overlay pictogram kleur"
+
+msgid ""
+"Color of the overlay icon. The overlay icon is centered horizontally and "
+"vertically over the image."
+msgstr "Kleur van het overlay -pictogram."
+
+msgid "Hover Icon"
+msgstr "Hover -pictogram"
+
+msgid "Icon Border Color"
+msgstr "Pictogram randkleur"
+
+msgid "Show Title and Caption"
+msgstr "Toon titel en bijschrift"
+
+msgid "Whether or not to show the title and caption for images (if available)."
+msgstr ""
+"Of de titel en het bijschrift voor afbeeldingen (indien beschikbaar) al dan "
+"niet weergeven."
+
+msgid "Next Mega Image Effect"
+msgstr "Volgende Mega Image Effect"
+
+msgid "Hover Background"
+msgstr "Zweven achtergrond"
+
+msgid "Hover Content"
+msgstr "Zweven inhoud"
+
+msgid "Push Up"
+msgstr "Omhoog gaan"
+
+msgid "Push Down"
+msgstr "Neerduwen"
+
+msgid "Push Left"
+msgstr "Duw naar links"
+
+msgid "Push Right"
+msgstr "Naar rechts duwen"
+
+msgid "Slide Up"
+msgstr "Schuiven"
+
+msgid "Slide Down"
+msgstr "Naar beneden glijden"
+
+msgid "Slide Left"
+msgstr "Schuif naar links"
+
+msgid "Slide Right"
+msgstr "Gaan naar rechts"
+
+msgid "Slide Top Left"
+msgstr "Schuif linksboven"
+
+msgid "Slide Top Right"
+msgstr "Schuif rechtsboven"
+
+msgid "Slide Bottom Left"
+msgstr "Schuif linksonder"
+
+msgid "Slide Bottom Right"
+msgstr "Schuif rechtsonder"
+
+msgid "Reveal Up"
+msgstr "Uitdagen"
+
+msgid "Reveal Down"
+msgstr "Onthullen"
+
+msgid "Reveal Left"
+msgstr "Onthullen links"
+
+msgid "Reveal Right"
+msgstr "Rechts onthullen"
+
+msgid "Reveal Top Left"
+msgstr "Onthul linksboven"
+
+msgid "Reveal Top Right"
+msgstr "Onthul rechtsboven"
+
+msgid "Reveal Bottom Left"
+msgstr "Onthul onder linksonder"
+
+msgid "Reveal Bottom Right"
+msgstr "Onthul rechtsonder"
+
+msgid "Fade In Up"
+msgstr "Vervagen"
+
+msgid "Fade In Down"
+msgstr "Vervagen"
+
+msgid "Fade In Left"
+msgstr "Vervagen in links"
+
+msgid "Fade In Right"
+msgstr "Vervagen rechts"
+
+msgid "Hinge Up"
+msgstr "Scharnieren"
+
+msgid "Hinge Down"
+msgstr "Scharnieren"
+
+msgid "Hinge Left"
+msgstr "Scharnier links"
+
+msgid "Hinge Right"
+msgstr "Scharnier goed"
+
+msgid "Flip Horizontal"
+msgstr "Draai horizontaal"
+
+msgid "Flip Vertical"
+msgstr "Draai verticaal"
+
+msgid "Flip Diag 1"
+msgstr "Flip Diag 1"
+
+msgid "Flip Diag 2"
+msgstr "Flip Diag 2"
+
+msgid "Shutter Out Diag 1"
+msgstr "Sluit diag 1"
+
+msgid "Shutter Out Diag 2"
+msgstr "Sluit diag 2 uit 2"
+
+msgid "Shutter In Out Horizontal"
+msgstr "Sluiter in horizontaal"
+
+msgid "Shutter In Out Vertical"
+msgstr "Sluiter in verticaal"
+
+msgid "Shutter In Out Diag 1"
+msgstr "Sluiter in diag 1"
+
+msgid "Shutter In Out Diag 2"
+msgstr "Sluiter in diag 2"
+
+msgid "Fold Up"
+msgstr "Opvouwen"
+
+msgid "Fold Down"
+msgstr "Neerklapbare"
+
+msgid "Fold Left"
+msgstr "Vouw naar links"
+
+msgid "Fold Right"
+msgstr "Naar rechts vouwen"
+
+msgid "Zoom In"
+msgstr "In zoomen"
+
+msgid "Zoom Out"
+msgstr "Uitzoomen"
+
+msgid "Zoom Out Up"
+msgstr "Uitzoomen"
+
+msgid "Zoom Out Down"
+msgstr "Zoom uit"
+
+msgid "Zoom Out Left"
+msgstr "Zoom links uit"
+
+msgid "Zoom Out Right"
+msgstr "Zoom goed uit"
+
+msgid "Zoom Out Flip Horizontal"
+msgstr "Zoom horizontaal uit"
+
+msgid "Zoom Out Flip Vertical"
+msgstr "Zoom verticaal flip uit"
+
+msgid "Blur"
+msgstr "Vervagen"
+
+msgid "Blocks Rotate Left"
+msgstr "Blokken roteren links"
+
+msgid "Blocks Rotate Right"
+msgstr "Blokken roteren goed"
+
+msgid "Blocks Rotate In Left"
+msgstr "Blokken roteren links"
+
+msgid "Blocks Rotate In Right"
+msgstr "Blokken roteren rechts"
+
+msgid "Blocks In"
+msgstr "Blokkeert in"
+
+msgid "Blocks Out"
+msgstr "Blokkeert uit"
+
+msgid "Blocks Float Up"
+msgstr "Blokken drijven op"
+
+msgid "Blocks Float Down"
+msgstr "Blokken drijven naar beneden"
+
+msgid "Blocks Float Left"
+msgstr "Blokken drijven naar links"
+
+msgid "Blocks Float Right"
+msgstr "Blokken drijven goed"
+
+msgid "Blocks Zoom Top Left"
+msgstr "Blokkeert zoom links links"
+
+msgid "Blocks Zoom Top Right"
+msgstr "Blokkeert zoom recht recht"
+
+msgid "Blocks Zoom Bottom Left"
+msgstr "Blokkeert zoom linksonder"
+
+msgid "Blocks Zoom Bottom Right"
+msgstr "Blokkeert zoom rechtsonder"
+
+msgid "Strip Shutter Up"
+msgstr "Strip de sluiting"
+
+msgid "Strip Shutter Down"
+msgstr "Strip de afsluiter"
+
+msgid "Strip Shutter Left"
+msgstr "Strip sluiter links"
+
+msgid "Strip Shutter Right"
+msgstr "Strip de sluiter rechts"
+
+msgid "Strip Horizontal Up"
+msgstr "Strip horizontaal omhoog"
+
+msgid "Strip Horizontal Down"
+msgstr "Strip horizontaal naar beneden"
+
+msgid "Strip Horizontal Top Left"
+msgstr "Strip horizontaal linksboven"
+
+msgid "Strip Horizontal Top Right"
+msgstr "Strip horizontaal rechtsboven"
+
+msgid "Strip Horizontal Bottom Left"
+msgstr "Strip horizontaal linksonder"
+
+msgid "Strip Horizontal Bottom Right"
+msgstr "Strip horizontaal rechtsonder"
+
+msgid "Strip Vertical Left"
+msgstr "Strip verticaal links"
+
+msgid "Strip Vertical Right"
+msgstr "Strip verticaal rechts"
+
+msgid "Strip Vertical Top Left"
+msgstr "Strip verticaal linksboven"
+
+msgid "Strip Vertical Top Right"
+msgstr "Strip verticaal rechtsboven"
+
+msgid "Strip Vertical Bottom Left"
+msgstr "Strip verticale linksonder"
+
+msgid "Strip Vertical Bottom Right"
+msgstr "Strip verticaal rechtsonder"
+
+msgid "Pixel Up"
+msgstr "Pixel"
+
+msgid "Pixel Down"
+msgstr "Pixel naar beneden"
+
+msgid "Pixel Left"
+msgstr "Pixel links"
+
+msgid "Pixel Right"
+msgstr "Pixel rechts"
+
+msgid "Pixel Top Left"
+msgstr "Pixel linksboven"
+
+msgid "Pixel Top Right"
+msgstr "Pixel rechtsboven"
+
+msgid "Pixel Bottom Left"
+msgstr "Pixel linksonder"
+
+msgid "Pixel Bottom Right"
+msgstr "Pixel rechtsonder"
+
+msgid "Pivot In Top Left"
+msgstr "Draai linksboven"
+
+msgid "Pivot In Top Right"
+msgstr "Draai rechtsboven recht"
+
+msgid "Pivot In Bottom Left"
+msgstr "Draai linksonder"
+
+msgid "Pivot In Bottom Right"
+msgstr "Draait rechtsonder"
+
+msgid "Pivot Out Top Left"
+msgstr "Draai linksboven"
+
+msgid "Pivot Out Top Right"
+msgstr "Draai de rechtsboven recht"
+
+msgid "Pivot Out Bottom Left"
+msgstr "Draai linksonder"
+
+msgid "Pivot Out Bottom Right"
+msgstr "Draai rechtsonder in"
+
+msgid "Throw In Up"
+msgstr "Inbrengen"
+
+msgid "Throw In Down"
+msgstr "Gooien in"
+
+msgid "Throw In Left"
+msgstr "Gooi links in"
+
+msgid "Throw In Right"
+msgstr "Rechts gooien"
+
+msgid "Throw Out Up"
+msgstr "Opgeven"
+
+msgid "Throw Out Down"
+msgstr "Weggooien"
+
+msgid "Throw Out Left"
+msgstr "Gooi naar links weg"
+
+msgid "Throw Out Right"
+msgstr "Gooien goed weg"
+
+msgid "Blinds Horizontal"
+msgstr "Blind horizontaal"
+
+msgid "Blinds Vertical"
+msgstr "Blinds verticaal"
+
+msgid "Blinds Up"
+msgstr "Verblind"
+
+msgid "Blinds Down"
+msgstr "Blind naar beneden"
+
+msgid "Blinds Left"
+msgstr "Blinds links"
+
+msgid "Blinds Right"
+msgstr "Blind rechts"
+
+msgid "Border Reveal"
+msgstr "Grens onthullen"
+
+msgid "Border Reveal Vertical"
+msgstr "Grens onthullen verticaal"
+
+msgid "Border Reveal Horizontal"
+msgstr "Grens onthullen horizontaal"
+
+msgid "Border Reveal Corners 1"
+msgstr "Grens onthullen hoeken 1"
+
+msgid "Border Reveal Corners 2"
+msgstr "Grens onthullen hoeken 2"
+
+msgid "Border Reveal Top Left"
+msgstr "Grens onthullen linksboven"
+
+msgid "Border Reveal Top Right"
+msgstr "Grens onthullen rechtsboven"
+
+msgid "Border Reveal Bottom Left"
+msgstr "Grens onthullen linksonder"
+
+msgid "Border Reveal Bottom Right"
+msgstr "Grens onthulling rechtsonder"
+
+msgid "Border Reveal Corner 1"
+msgstr "Border onthul de hoek 1"
+
+msgid "Border Reveal Corner 2"
+msgstr "Grens onthul hoek 2"
+
+msgid "Border Reveal Corner 3"
+msgstr "Border onthul de hoek 3"
+
+msgid "Border Reveal Corner 4"
+msgstr "Grens onthul hoek 4"
+
+msgid "Border Reveal Corner 5"
+msgstr "Grens onthul hoek 5"
+
+msgid "Border Reveal Corner 6"
+msgstr "Grens onthul hoek 6"
+
+msgid "Image Zoom Center"
+msgstr "Afbeeldingszoomcentrum"
+
+msgid "Image Zoom Out"
+msgstr "Afbeelding uitzoomen"
+
+msgid "Image Rotate Left"
+msgstr "Afbeelding draait links"
+
+msgid "Image Rotate Right"
+msgstr "Afbeelding draait goed"
+
+msgid "Book Open Horizontal"
+msgstr "Boek open horizontaal"
+
+msgid "Book Open Vertical"
+msgstr "Boek open verticaal"
+
+msgid "Book Open Up"
+msgstr "Boek open"
+
+msgid "Book Open Down"
+msgstr "Boek open"
+
+msgid "Book Open Left"
+msgstr "Boek open links"
+
+msgid "Book Open Right"
+msgstr "Boek open goed"
+
+msgid "Circle Up"
+msgstr "Omdraaien"
+
+msgid "Circle Down"
+msgstr "Omdraaien"
+
+msgid "Circle Left"
+msgstr "Cirkel links"
+
+msgid "Circle Right"
+msgstr "Cirkelt naar rechts"
+
+msgid "Circle Top Left"
+msgstr "Cirkel linksboven"
+
+msgid "Circle Top Right"
+msgstr "Cirkel rechtsboven"
+
+msgid "Circle Bottom Left"
+msgstr "Cirkel onder links"
+
+msgid "Circle Bottom Right"
+msgstr "Cirkel rechtsonder"
+
+msgid "Shift Top Left"
+msgstr "Schakel linksboven"
+
+msgid "Shift Top Right"
+msgstr "Schakel rechtsboven"
+
+msgid "Shift Bottom Left"
+msgstr "Schakel onder linksonder"
+
+msgid "Shift Bottom Right"
+msgstr "Verschuiv rechtsonder"
+
+msgid "Bounce In Up"
+msgstr "Stuiteren in omhoog"
+
+msgid "Bounce In Down"
+msgstr "Stuiteren in Down"
+
+msgid "Bounce In Left"
+msgstr "Stuiter in links"
+
+msgid "Bounce In Right"
+msgstr "Stuiter rechts"
+
+msgid "Bounce Out Up"
+msgstr "Stuiteren"
+
+msgid "Bounce Out Down"
+msgstr "Stuiteren"
+
+msgid "Bounce Out Left"
+msgstr "Stuiter naar links"
+
+msgid "Bounce Out Right"
+msgstr "Stuiter goed uit"
+
+msgid "Fall Away Horizontal"
+msgstr "Horizontaal wegvallen"
+
+msgid "Fall Away Vertical"
+msgstr "Val verticaal weg"
+
+msgid "Fall Away Corner 1"
+msgstr "Fall Away Corner 1"
+
+msgid "Fall Away Corner 2"
+msgstr "Fall Away Corner 2"
+
+msgid "Modal Slide Up"
+msgstr "Modale glijbaan omhoog"
+
+msgid "Modal Slide Down"
+msgstr "Modale glijbaan naar beneden"
+
+msgid "Modal Slide Left"
+msgstr "Modale dia links"
+
+msgid "Modal Slide Right"
+msgstr "Modale dia rechts"
+
+msgid "Modal Hinge Up"
+msgstr "Modaal scharnier"
+
+msgid "Modal Hinge Down"
+msgstr "Modaal scharnier naar beneden"
+
+msgid "Modal Hinge Left"
+msgstr "Modaal scharnier links"
+
+msgid "Modal Hinge Right"
+msgstr "Modaal scharnier rechts"
+
+msgid "Lightspeed In Left"
+msgstr "Lightspeed links"
+
+msgid "Lightspeed In Right"
+msgstr "Lichtsnelheid rechts"
+
+msgid "Lightspeed Out Left"
+msgstr "Lightspeed links"
+
+msgid "Lightspeed Out Right"
+msgstr "Lightspeed goed"
+
+msgid "Grad Radial In"
+msgstr "Grad radiaal in"
+
+msgid "Grad Radial Out"
+msgstr "Grad radiaal uit"
+
+msgid "Grad Up"
+msgstr "Cijfer omhoog"
+
+msgid "Grad Down"
+msgstr "Afstuderen"
+
+msgid "Grad Left"
+msgstr "Grad links"
+
+msgid "Grad Right"
+msgstr "GROT RECHT"
+
+msgid "Grad Top Left"
+msgstr "Grad linksboven"
+
+msgid "Grad Top Right"
+msgstr "Grad rechtsboven recht"
+
+msgid "Grad Bottom Left"
+msgstr "Grad linksonder"
+
+msgid "Grad Bottom Right"
+msgstr "Grade rechtsonder"
+
+msgid "Parallax Up"
+msgstr "Parallax op"
+
+msgid "Parallax Down"
+msgstr "Parallax naar beneden"
+
+msgid "Parallax Left"
+msgstr "Parallax links"
+
+msgid "Parallax Right"
+msgstr "Parallax goed"
+
+msgid "Stack Up"
+msgstr "Opstapelen"
+
+msgid "Stack Down"
+msgstr "Stappen"
+
+msgid "Stack Left"
+msgstr "Stapel links"
+
+msgid "Stack Right"
+msgstr "Stapel naar rechts"
+
+msgid "Cube Up"
+msgstr "Inkruipen"
+
+msgid "Cube Down"
+msgstr "Kubus naar beneden"
+
+msgid "Cube Left"
+msgstr "Kubus links"
+
+msgid "Cube Right"
+msgstr "Kubus rechts"
+
+msgid "Dive"
+msgstr "Duiken"
+
+msgid "Dive Corner 1"
+msgstr "Duik hoek 1"
+
+msgid "Dive Corner 2"
+msgstr "Duik hoek 2"
+
+msgid "Flash Top Left"
+msgstr "Flits linksboven"
+
+msgid "Flash Top Right"
+msgstr "Flits rechtsboven recht"
+
+msgid "Flash Bottom Left"
+msgstr "Flits linksonder"
+
+msgid "Flash Bottom Right"
+msgstr "Flits rechtsonder"
+
+msgid "Select Border Color"
+msgstr "Selecteer grenskleur"
+
+msgid "Select Text Effect"
+msgstr "Selecteer teksteffect"
+
+msgid "Fade Up"
+msgstr "Vervagen"
+
+msgid "Fade Down"
+msgstr "Vervagen"
+
+msgid "Fade Left"
+msgstr "Vervagen links"
+
+msgid "Fade Right"
+msgstr "Vervagen recht"
+
+msgid "Fade Up Big"
+msgstr "Vervagen groot"
+
+msgid "Fade Down Big"
+msgstr "Vervagen groot"
+
+msgid "Fade Left Big"
+msgstr "Fade links groot"
+
+msgid "Fade Right Big"
+msgstr "Vervagen goed groot"
+
+msgid "Flip X"
+msgstr "Flip x"
+
+msgid "Flip Y"
+msgstr "Flip y"
+
+msgid "Select Text Delay"
+msgstr "Selecteer tekstvertraging"
+
+msgid "X Small"
+msgstr "X Small"
+
+msgid "Medium"
+msgstr "Medium"
+
+msgid "X Large"
+msgstr "X Large"
+
+msgid "XX Large"
+msgstr "Xx groot"
+
+msgid "Hover Background Color"
+msgstr "Zweven achtergrondkleur"
+
+msgid "Gradient Hover Color"
+msgstr "Gradiënt hover kleur"
+
+msgid "Gradient Button Color"
+msgstr "Gradiëntknop kleur"
+
+msgid "Align Button to the left, right or center."
+msgstr "Lijn de knop aan de linkerkant, rechts of in het midden uit."
+
+msgid "Next Minimal Image"
+msgstr "Volgende minimale afbeelding"
+
+msgid "Image Alternative Text"
+msgstr "Afbeelding Alternatieve tekst"
+
+msgid ""
+"This defines the HTML ALT text. A short description of your image can be "
+"placed here."
+msgstr "Dit definieert de HTML ALT -tekst."
+
+msgid "Zoom Out In"
+msgstr "Zoom uit"
+
+msgid "Scale Out Rotate"
+msgstr "Schaal uit om te draaien"
+
+msgid "Slide"
+msgstr "Schuif"
+
+msgid "Rotate Zoom Out"
+msgstr "Roteer uitzoomen eruit"
+
+msgid "Flashing"
+msgstr "Knipperend"
+
+msgid "Shine"
+msgstr "Schijnen"
+
+msgid "Circle"
+msgstr "Cirkel"
+
+msgid "Next Text Multi Heading"
+msgstr "Volgende tekst Multi -kop"
+
+msgid "Text One Background"
+msgstr "Sms een achtergrond"
+
+msgid "Text Two Background"
+msgstr "Sms twee achtergrond"
+
+msgid "Text Three Background"
+msgstr "Sms drie achtergrond"
+
+msgid "General"
+msgstr "Algemeen"
+
+msgid "Heading Spacing"
+msgstr "Regelafstand"
+
+msgid "Border Text One"
+msgstr "Border Text One"
+
+msgid "Border Text Two"
+msgstr "Grens tekst twee"
+
+msgid "Border Text Three"
+msgstr "Grens tekst drie"
+
+msgid "Heading Text one"
+msgstr "Kop tekst"
+
+msgid "Heading Text Two"
+msgstr "Kop tekst twee"
+
+msgid "Heading Text Three"
+msgstr "Kop tekst drie"
+
+msgid "Text One"
+msgstr "Sms een"
+
+msgid "Type your first heading text here."
+msgstr "Typ hier uw eerste koptekst."
+
+msgid "Text Two"
+msgstr "Sms twee"
+
+msgid "Type your second heading text here."
+msgstr "Typ hier uw tweede koptekst."
+
+msgid "Text Three"
+msgstr "Sms drie"
+
+msgid "Type your third heading text here."
+msgstr "Typ hier uw derde koptekst."
+
+msgid "span"
+msgstr "span"
+
+msgid "Display Stacked"
+msgstr "Stapelstapeld display"
+
+msgid "Inline"
+msgstr "In lijn"
+
+msgid "Stack"
+msgstr "Stappen"
+
+msgid ""
+"Select how you would like to display the heading. Either inline or stacked."
+msgstr "Selecteer hoe u de kop wilt weergeven."
+
+msgid "Spacing Between Heading"
+msgstr "Afstand tussen kop"
+
+msgid "Text Alignment"
+msgstr "Tekstuitlijning"
+
+msgid "This controls how your text is aligned within the module."
+msgstr "Dit bepaalt hoe uw tekst is uitgelijnd in de module."
+
+msgid "Text One Margin"
+msgstr "Sms een marge"
+
+msgid "Text One Margin here."
+msgstr "Sms hier één marge."
+
+msgid "Text One Padding"
+msgstr "Sms een vulling"
+
+msgid "Text One Padding here."
+msgstr "Sms hier een vulling."
+
+msgid "Text Two Margin"
+msgstr "Sms twee marge"
+
+msgid "Text Two Margin here."
+msgstr "Sms hier twee marge."
+
+msgid "Text Two Padding"
+msgstr "Sms twee vulling"
+
+msgid "Text Two Padding here."
+msgstr "Sms hier twee vulling."
+
+msgid "Text Three Margin"
+msgstr "Sms drie marge"
+
+msgid "Text Three Margin here."
+msgstr "Sms hier drie marge."
+
+msgid "Text One Background Color"
+msgstr "Sms een achtergrondkleur"
+
+msgid "Add a background color that best suits your text here."
+msgstr "Voeg hier een achtergrondkleur toe die het beste bij uw tekst past."
+
+msgid "Text Two Background Color"
+msgstr "Sms twee achtergrondkleur"
+
+msgid "Text Three Background Color"
+msgstr "Tekst drie achtergrondkleur"
+
+msgid ""
+"Choose the first color to blend with the second color from the color picker "
+"that suits your first heading text."
+msgstr ""
+"Kies de eerste kleur om te mengen met de tweede kleur van de kleurenkiezer "
+"die past bij uw eerste koptekst."
+
+msgid ""
+"Choose the second color to blend with the first color from the color picker "
+"that suits your first heading text."
+msgstr ""
+"Kies de tweede kleur om te mengen met de eerste kleur van de kleurenkiezer "
+"die past bij uw eerste koptekst."
+
+msgid "Choose a gradient type for the first heading text."
+msgstr "Kies een gradiënttype voor de eerste koptekst."
+
+msgid "Adjust the direction of the gradient for the first heading text."
+msgstr "Pas de richting van de gradiënt aan voor de eerste koptekst."
+
+msgid ""
+"Adjust the position for the beginning of the gradient color for the first "
+"heading text."
+msgstr ""
+"Pas de positie aan voor het begin van de gradiëntkleur voor de eerste "
+"koptekst."
+
+msgid ""
+"Adjust the position for the ending of the gradient color for the first "
+"heading text."
+msgstr ""
+"Pas de positie aan voor het einde van de gradiëntkleur voor de eerste "
+"koptekst."
+
+msgid ""
+"Choose the first color to blend with the second color from the color picker "
+"that suits your second heading text."
+msgstr ""
+"Kies de eerste kleur om te mengen met de tweede kleur van de kleurenkiezer "
+"die past bij uw tweede koptekst."
+
+msgid ""
+"Choose the second color to blend with the first color from the color picker "
+"that suits your second heading text."
+msgstr ""
+"Kies de tweede kleur om te mengen met de eerste kleur van de kleurenkiezer "
+"die past bij uw tweede koptekst."
+
+msgid "Choose a gradient type for the second heading text."
+msgstr "Kies een gradiënttype voor de tweede koptekst."
+
+msgid "Adjust the direction of the gradient for the second heading text."
+msgstr "Pas de richting van de gradiënt aan voor de tweede koptekst."
+
+msgid ""
+"Adjust the position for the beginning of the gradient color for the second "
+"heading text."
+msgstr ""
+"Pas de positie aan voor het begin van de gradiëntkleur voor de tweede "
+"koptekst."
+
+msgid ""
+"Adjust the position for the ending of the gradient color for the second "
+"heading text."
+msgstr ""
+"Pas de positie aan voor het einde van de gradiëntkleur voor de tweede "
+"koptekst."
+
+msgid ""
+"Choose the first color to blend with the second color from the color picker "
+"that suits your third heading text."
+msgstr ""
+"Kies de eerste kleur om te mengen met de tweede kleur van de kleurenkiezer "
+"die past bij uw derde koptekst."
+
+msgid ""
+"Choose the second color to blend with the first color from the color picker "
+"that suits your third heading text."
+msgstr ""
+"Kies de tweede kleur om te mengen met de eerste kleur van de kleurenkiezer "
+"die past bij uw derde koptekst."
+
+msgid "Choose a gradient type for the third heading text."
+msgstr "Kies een gradiënttype voor de derde koptekst."
+
+msgid "Adjust the direction of the gradient for the third heading text."
+msgstr "Pas de richting van de gradiënt aan voor de derde koptekst."
+
+msgid ""
+"Adjust the position for the beginning of the gradient color for the third "
+"heading text."
+msgstr ""
+"Pas de positie aan voor het begin van de gradiëntkleur voor de derde "
+"koptekst."
+
+msgid ""
+"Adjust the position for the ending of the gradient color for the third "
+"heading text."
+msgstr ""
+"Pas de positie aan voor het einde van de gradiëntkleur voor de derde "
+"koptekst."
+
+msgid "Text Three Padding"
+msgstr "Sms drie vulling"
+
+msgid "Text Three Padding here."
+msgstr "Sms hier drie vulling."
+
+msgid "Gradient Color Text One"
+msgstr "Gradiëntkleurtekst één"
+
+msgid "Select if you would like to use gradient text color."
+msgstr "Selecteer of u de tekstkleur van de gradiënt wilt gebruiken."
+
+msgid "Gradient Color Text Two"
+msgstr "Gradiëntkleurtekst twee"
+
+msgid "Linear Color Text Three"
+msgstr "Lineaire kleurentekst drie"
+
+msgid ""
+"Choose a color from the color picker with which you can reveal your first "
+"heading text."
+msgstr ""
+"Kies een kleur uit de kleurenkiezer waarmee u uw eerste koptekst kunt "
+"onthullen."
+
+msgid ""
+"Choose a color from the color picker with which you can reveal your second "
+"heading text."
+msgstr ""
+"Kies een kleur uit de kleurenkiezer waarmee u uw tweede koptekst kunt "
+"onthullen."
+
+msgid ""
+"Choose a color from the color picker with which you can reveal your third "
+"heading text."
+msgstr ""
+"Kies een kleur uit de kleurenkiezer waarmee u uw derde koptekst kunt "
+"onthullen."
+
+msgid "Border Three"
+msgstr "Grens drie"
+
+msgid "Next Rating"
+msgstr "Volgende beoordeling"
+
+msgid "Rating Alignment"
+msgstr "De uitlijning van de beoordeling"
+
+msgid "Align rating to the left, right or center."
+msgstr "Lijn de beoordeling aan de linkerkant, rechts of in het midden uit."
+
+msgid "Next Divi Review"
+msgstr "Volgende Divi Review"
+
+msgid "Input the review description for your module here."
+msgstr "Voer hier de beoordelingsbeschrijving in voor uw module."
+
+msgid "Select Rating Style"
+msgstr "Selecteer de beoordelingsstijl"
+
+msgid "Star"
+msgstr "Ster"
+
+msgid "Select Rating Text Color"
+msgstr "Selecteer Tekstkleur beoordeeld"
+
+msgid "Rating Margin"
+msgstr "Beoordelingsmarge"
+
+msgid "Rating Padding"
+msgstr "Ratingvulling"
+
+msgid "Next Step Flow"
+msgstr "Volgende stapstroom"
+
+msgid "Step Flow"
+msgstr "Stappenstroom"
+
+msgid "Circle Style"
+msgstr "Cirkelstijl"
+
+msgid "Badge Style"
+msgstr "Badge -stijl"
+
+msgid "Badge"
+msgstr "Insigne"
+
+msgid "Bagde Shadow"
+msgstr "Bagde Shadow"
+
+msgid "Circle Shadow"
+msgstr "Cirkel schaduw"
+
+msgid "Choose an icon to display with your step flow."
+msgstr "Kies een pictogram dat moet worden weergegeven met uw stapstroom."
+
+msgid "Badge Title"
+msgstr "Badge titel"
+
+msgid "Input the badge title"
+msgstr "Voer de badge -titel in"
+
+msgid "Align badge to the left, right or center."
+msgstr "Lijn badge op links, rechts of midden uit."
+
+msgid "Input the Title"
+msgstr "Voer de titel in"
+
+msgid "Input the description for your module here."
+msgstr "Voer hier de beschrijving in voor uw module."
+
+msgid "Use Direction"
+msgstr "Gebruik de richting"
+
+msgid ""
+"Direction support various different styles, each of which will change the "
+"shape of the divider element."
+msgstr ""
+"Richting ondersteunt verschillende stijlen, die elk de vorm van het verdeler "
+"-element zullen veranderen."
+
+msgid "Angle"
+msgstr "Hoek"
+
+msgid "Offset Top"
+msgstr "Offset top"
+
+msgid "Offset Left"
+msgstr "Offset links"
+
+msgid "This will adjust the background color of the 1px divider line."
+msgstr "Hiermee wordt de achtergrondkleur van de 1PX -dividerijn aangepast."
+
+msgid "Badge Padding"
+msgstr "Badge vulling"
+
+msgid "Badge Margin"
+msgstr "Badgemarge"
+
+msgid "Circle Margin"
+msgstr "Cirkelmarge"
+
+msgid "Circle Padding"
+msgstr "Cirkelvulling"
+
+msgid "Next Team Creative"
+msgstr "Volgende team creatief"
+
+msgid "Image Overlay Color"
+msgstr "Afbeelding overlay kleur"
+
+msgid "Input the team's position."
+msgstr "Voer de positie van het team in."
+
+msgid "Align button item to the left, right or center."
+msgstr "Lijn de knopitem aan de linkerkant, rechts of in het midden uit."
+
+msgid "Button Hover Line Color"
+msgstr "Knop zweven lijnkleur"
+
+msgid "Here you can define a custom color for the Button Background."
+msgstr ""
+"Hier kunt u een aangepaste kleur definiëren voor de achtergrond van de knop."
+
+msgid "Select Social Item"
+msgstr "Selecteer Sociaal item"
+
+msgid "Next Team Member Overlay"
+msgstr "Volgende teamlidoverlay"
+
+msgid "Select Overlay Color"
+msgstr "Selecteer overlaykleur"
+
+msgid "Next Team Overlay Card"
+msgstr "Volgende teamoverlay -kaart"
+
+msgid "Descrition Margin"
+msgstr "Beschrijving Marge"
+
+msgid "Next Team Social Reveal"
+msgstr "Volgende team sociale onthulling"
+
+msgid "Upload an image to display at the top of your team social reveal."
+msgstr ""
+"Upload een afbeelding om te weergeven bovenaan de sociale onthulling van uw "
+"team."
+
+msgid "Here you can define the alignment of Image"
+msgstr "Hier kunt u de afstemming van de afbeelding definiëren"
+
+msgid "Choose where Team"
+msgstr "Kies waar team"
+
+msgid "Team 01"
+msgstr "Team 01"
+
+msgid "Team 02"
+msgstr "Team 02"
+
+msgid "Next Text Animation"
+msgstr "Volgende sms -animatie"
+
+msgid "Text Animation"
+msgstr "Sms -animatie"
+
+msgid "Before Text"
+msgstr "Voor tekst"
+
+msgid "Animation Text"
+msgstr "Animatietekst"
+
+msgid "After Text"
+msgstr "Na tekst"
+
+msgid "Before Text entered here will appear inside the module."
+msgstr "Voordat de tekst hier wordt ingevoerd, verschijnt in de module."
+
+msgid "After Text entered here will appear inside the module."
+msgstr "Nadat de tekst hier is ingevoerd, verschijnt in de module."
+
+msgid "Select Animation Effect"
+msgstr "Selecteer animatie -effect"
+
+msgid "Here you can adjust the Animation effect."
+msgstr "Hier kunt u het animatie -effect aanpassen."
+
+msgid "Flip"
+msgstr "Omdraaien"
+
+msgid "Typing"
+msgstr "Typen"
+
+msgid "Spiral"
+msgstr "Spiraal"
+
+msgid "Loading Bar"
+msgstr "Laadstang"
+
+msgid "Clip"
+msgstr "Klem"
+
+msgid "Drop In"
+msgstr "Binnenvallen"
+
+msgid "Swirl"
+msgstr "Wervelen"
+
+msgid "Flow"
+msgstr "Stroom"
+
+msgid "Loading Bar Color"
+msgstr "Laadbalkkleur"
+
+msgid "Loading Bar Height"
+msgstr "Laadbalkhoogte laden"
+
+msgid "Next Text Color Motion"
+msgstr "Volgende tekstkleurbeweging"
+
+msgid "Color Motion Style"
+msgstr "Kleurbewegingsstijl"
+
+msgid "Colors"
+msgstr "Kleuren"
+
+msgid "Color Motion Text"
+msgstr "Kleurbeweging tekst"
+
+msgid "Choose a Gradient animated style from the list below."
+msgstr "Kies een geanimeerde stijl van de gradiënt uit de onderstaande lijst."
+
+msgid "Style1"
+msgstr "Style1"
+
+msgid "Style2"
+msgstr "Style2"
+
+msgid "Motion Duration"
+msgstr "Bewegingsduur"
+
+msgid ""
+"Adjust color two to the right of the text you have entered and see how it "
+"looks."
+msgstr ""
+"Pas kleur twee rechts van de tekst die je hebt ingevoerd en kijk hoe het "
+"eruit ziet."
+
+msgid "Select Color Three"
+msgstr "Selecteer kleur drie"
+
+msgid "Select Color Four"
+msgstr "Selecteer kleur vier"
+
+msgid "Color One Position"
+msgstr "Kleur één positie"
+
+msgid "Color Two Position"
+msgstr "Kleur twee positie"
+
+msgid "Color Three Position"
+msgstr "Kleur drie positie"
+
+msgid "Color Four Position"
+msgstr "Kleur vier positie"
+
+msgid "Next Text Divider"
+msgstr "Volgende tekstverdeler"
+
+msgid "Divider Settings"
+msgstr "Instellingen"
+
+msgid "Background Text"
+msgstr "Achtergrondtekst"
+
+msgid "Divider Wrapper"
+msgstr "Wikkel"
+
+msgid "Divider Text"
+msgstr "Verdeling"
+
+msgid "Text entered here will appear inside the module."
+msgstr "De hier ingevoerde tekst verschijnt in de module."
+
+msgid "Select Tag"
+msgstr "Selecteer tag"
+
+msgid "Select the tag, which you would like to use"
+msgstr "Selecteer de tag, die u wilt gebruiken"
+
+msgid "Divider Weight"
+msgstr "Verdelinggewicht"
+
+msgid "Text Gap"
+msgstr "Tekstkloof"
+
+msgid "Background Text Color"
+msgstr "Achtergrondtekstkleur"
+
+msgid "Gradient Content Color"
+msgstr "Gradiëntinhoudskleur"
+
+msgid "Next Text Glitch"
+msgstr "Volgende tekst glitch"
+
+msgid "Glitch Style"
+msgstr "Glitch -stijl"
+
+msgid "Glitch Position"
+msgstr "Glitchpositie"
+
+msgid "Glitch Text"
+msgstr "Glitch -tekst"
+
+msgid "Select Glitch Style"
+msgstr "Selecteer glitch -stijl"
+
+msgid "Choose an animated glitch style from the list below."
+msgstr "Kies een geanimeerde glitch -stijl uit de onderstaande lijst."
+
+msgid "Style3"
+msgstr "Style3"
+
+msgid "Style4"
+msgstr "Style4"
+
+msgid "Style5"
+msgstr "Style5"
+
+msgid "Style6"
+msgstr "Style6"
+
+msgid "Style7"
+msgstr "Style7"
+
+msgid "Text Color"
+msgstr "Tekst kleur"
+
+msgid "Select a color for the text used for the glitch style."
+msgstr ""
+"Selecteer een kleur voor de tekst die wordt gebruikt voor de glitch -stijl."
+
+msgid "Glitch Color One"
+msgstr "Glitch Color One"
+
+msgid ""
+"Select color one to use for the top part of the text with the glitch effect."
+msgstr ""
+"Selecteer kleur één om te gebruiken voor het bovenste deel van de tekst met "
+"het glitch -effect."
+
+msgid "Glitch Color Two"
+msgstr "Glitch kleur twee"
+
+msgid ""
+"Select color two to use for the bottom part of the text with the glitch "
+"effect."
+msgstr ""
+"Selecteer kleur twee om te gebruiken voor het onderste deel van de tekst met "
+"het glitch -effect."
+
+msgid "Glitch Left"
+msgstr "Glitch links"
+
+msgid ""
+"Adjust color one to the left of the text you have entered and see how it "
+"looks."
+msgstr ""
+"Pas de kleur één aan de linkerkant aan van de tekst die u hebt ingevoerd en "
+"kijk hoe deze eruit ziet."
+
+msgid "Glitch Right"
+msgstr "Glitch goed"
+
+msgid "Glitch Top"
+msgstr "Glitch top"
+
+msgid ""
+"Adjust and drag the glitch effect to the bottom of the text and see how it "
+"looks."
+msgstr ""
+"Pas het glitch -effect aan en sleep naar de onderkant van de tekst en kijk "
+"hoe het eruit ziet."
+
+msgid "Next Text Highlight"
+msgstr "Volgende teksthoogte"
+
+msgid "Highlight"
+msgstr "Bescheiden"
+
+msgid "Highlight Text"
+msgstr "Tekst markeren"
+
+msgid "Hightlight Text entered here will appear inside the module."
+msgstr "Markeer tekst die hier is ingevoerd, verschijnt in de module."
+
+msgid "Select Color"
+msgstr "Selecteer kleur"
+
+msgid "Select a suitable color to use as highlight for the text."
+msgstr ""
+"Selecteer een geschikte kleur om te gebruiken als hoogtepunt voor de tekst."
+
+msgid "Stroke Width"
+msgstr "Streekbreedte"
+
+msgid "Adjust the width of the stroke added for the highlighted text."
+msgstr "Pas de breedte van de slag toegevoegd voor de gemarkeerde tekst aan."
+
+msgid "Animation Delay"
+msgstr "Animatievertraging"
+
+msgid ""
+"If you would like to add a delay before your animation runs you can "
+"designate that delay here in milliseconds. This can be useful when using "
+"multiple animated modules together."
+msgstr ""
+"Als u een vertraging wilt toevoegen voordat uw animatie wordt uitgevoerd, "
+"kunt u die vertraging hier in milliseconden aanwijzen."
+
+msgid "Select Highlight Style"
+msgstr "Selecteer Hoogtestijl"
+
+msgid "Underline"
+msgstr "Onderstrepen"
+
+msgid "Curly Line"
+msgstr "Krullen"
+
+msgid "Delete"
+msgstr "Verwijderen"
+
+msgid "Diagonal"
+msgstr "Diagonaal"
+
+msgid "Double Line"
+msgstr "Dubbele lijn"
+
+msgid "Strikethrough"
+msgstr "Doorstrevend"
+
+msgid "Zigzag"
+msgstr "Zigzag"
+
+msgid "Wave"
+msgstr "Golf"
+
+msgid "Brush"
+msgstr "Borstel"
+
+msgid "Splash"
+msgstr "Plons"
+
+msgid "Brick Wall"
+msgstr "Stenen muur"
+
+msgid "Heading Fonts"
+msgstr "Koplettertypen"
+
+msgid "Next Text Hover Highlight"
+msgstr "Volgende tekst Hover hoogtepunt"
+
+msgid "Text Background"
+msgstr "Sms -achtergrond"
+
+msgid "Text Border"
+msgstr "Tekstgrens"
+
+msgid "Text Shadow"
+msgstr "Schaduw tekst"
+
+msgid "Text Spacing"
+msgstr "Tekstafstand"
+
+msgid "Hover Highlight Text Wrapper"
+msgstr "Hover markeer tekst wrapper"
+
+msgid "Before Text Enable"
+msgstr "Voordat tekst wordt ingeschakeld"
+
+msgid "Hover Highlight Text"
+msgstr "Heven markeer tekst"
+
+msgid "After Text Enable"
+msgstr "Na tekst inschakelen"
+
+msgid "Underline Right"
+msgstr "Onderstreep goed"
+
+msgid "Underline Closing"
+msgstr "Onderstreping"
+
+msgid "Underline Opening"
+msgstr "Ondersteuning"
+
+msgid "Double Underline Left"
+msgstr "Dubbele onderstreping links"
+
+msgid "Double Underline Right"
+msgstr "Dubbele onderstreping"
+
+msgid "Double Underline Opening"
+msgstr "Dubbele onderstreping"
+
+msgid "Double Underline Left Right"
+msgstr "Dubbele onderstreikte links"
+
+msgid "Overline Left"
+msgstr "Overtollige links"
+
+msgid "Overline Right"
+msgstr "Overline goed"
+
+msgid "Overline Closing"
+msgstr "Overtollige afsluiting"
+
+msgid "Overline Opening"
+msgstr "Overline opening"
+
+msgid "Left Down"
+msgstr "Linksonder"
+
+msgid "Left Up"
+msgstr "Opgelaten"
+
+msgid "Right Down"
+msgstr "Recht naar beneden"
+
+msgid "Right Up"
+msgstr "Recht omhoog"
+
+msgid "Move Down"
+msgstr "Naar beneden verplaatsen"
+
+msgid "Move Up"
+msgstr "Omhoog gaan"
+
+msgid "Move Right"
+msgstr "Ga naar rechts"
+
+msgid "Move Left"
+msgstr "Ga naar links"
+
+msgid "Move Vertical"
+msgstr "Verplaats verticaal"
+
+msgid "Move Horizontal"
+msgstr "Horizontaal beweeg"
+
+msgid "Both Down"
+msgstr "Beide down"
+
+msgid "Both Up"
+msgstr "Beide op"
+
+msgid "Both Right"
+msgstr "Beide rechts"
+
+msgid "Both left"
+msgstr "Beide links"
+
+msgid "Left Up Right Down"
+msgstr "Links recht naar beneden"
+
+msgid "Left Down Right Up"
+msgstr "Links rechtop"
+
+msgid "Both Opening Horizontal"
+msgstr "Beide openen horizontaal"
+
+msgid "Overline Left Underline Right"
+msgstr "Overtollige links onderstreept rechts"
+
+msgid "Overline Right Underline Left"
+msgstr "Overtollige rechts onderstreping links"
+
+msgid "Fill Left"
+msgstr "Vul links"
+
+msgid "Fill Right"
+msgstr "Rechts vullen"
+
+msgid "Fill Down"
+msgstr "Vervullen"
+
+msgid "Fill Up"
+msgstr "Opvullen"
+
+msgid "Fill Closing Vertical"
+msgstr "Vul afsluitend verticaal"
+
+msgid "Fill Closing Horizontal"
+msgstr "Vul horizontaal afsluiten"
+
+msgid "Fill Opening Horizontal"
+msgstr "Vul de opening horizontaal"
+
+msgid "Fill Top Left"
+msgstr "Vul linksboven"
+
+msgid "Fill Top Right"
+msgstr "Vul rechtsboven"
+
+msgid "Fill Bottom Left"
+msgstr "Vul onder linksonder"
+
+msgid "Fill Bottom Right"
+msgstr "Vul rechtsonder"
+
+msgid "Linethrough Left"
+msgstr "Linethrough links"
+
+msgid "Linethrough Right"
+msgstr "Linethrough Right"
+
+msgid "Linethrough Opening"
+msgstr "Linethrough Opening"
+
+msgid "Linethrough Closing"
+msgstr "Linethrough Sluiting"
+
+msgid "Double Linethrough Left"
+msgstr "Dubbele linethrough links"
+
+msgid "Double Linethrough Right"
+msgstr "Dubbel linethrough rechts"
+
+msgid "Double Linethrough Left right"
+msgstr "Dubbele linethrough links rechts"
+
+msgid "Double Linethrough Right Left"
+msgstr "Dubbele linethrough rechts links"
+
+msgid "Double Linethrough Opening"
+msgstr "Dubbele linethrough opening"
+
+msgid "Double Underline Right Delayed"
+msgstr "Dubbele onderstreping"
+
+msgid "Highlight Hight"
+msgstr "Markeer hoogte"
+
+msgid "Adjust the height of the line within the Highlight Text."
+msgstr "Pas de hoogte van de lijn aan in de highlight -tekst."
+
+msgid "Highlight Link"
+msgstr "Markeer link"
+
+msgid "Highlight Link Target"
+msgstr "Markeer link doelwit"
+
+msgid "Highlight Color Enable"
+msgstr "Markeer de kleur inschakelen"
+
+msgid "Highlight Color"
+msgstr "Markeer kleur"
+
+msgid "Here you can define a custom background color for your Highlight text."
+msgstr ""
+"Hier kunt u een aangepaste achtergrondkleur definiëren voor uw "
+"hoogtepunttekst."
+
+msgid "Highlight Gradient Color"
+msgstr "Markeer de gradiëntkleur"
+
+msgid "Text Color Enable"
+msgstr "Tekstkleur ingeschakeld"
+
+msgid "Text BG Color"
+msgstr "Tekst bg kleur"
+
+msgid "Text Gradient Color"
+msgstr "Tekstgradiëntkleur"
+
+msgid "Text Margin"
+msgstr "Tekstmarge"
+
+msgid "Text Padding"
+msgstr "Tekstvulling"
+
+msgid "Plain Text"
+msgstr "Platte tekst"
+
+msgid "Next Text Mask"
+msgstr "Volgende tekstmasker"
+
+msgid "Image Mask"
+msgstr "Beeldmasker"
+
+msgid "Text Mask CSS"
+msgstr "Tekstmasker CSS"
+
+msgid "Thumbnail Image Mask"
+msgstr "Miniatuurafbeelding masker"
+
+msgid "Image entered here will appear inside the module."
+msgstr "Hier ingevoerd afbeelding verschijnt in de module."
+
+msgid "Choose Image"
+msgstr "Kies afbeelding"
+
+msgid "Update Image"
+msgstr "Update afbeelding"
+
+msgid "Background Image Size"
+msgstr "Achtergrondafbeeldingsmaat"
+
+msgid ""
+"Choose between Cover, Fit and Actual size and check how it looks as a "
+"background to your text."
+msgstr ""
+"Kies tussen cover, pasvorm en werkelijke maat en controleer hoe het eruit "
+"ziet als een achtergrond van uw tekst."
+
+msgid "Cover"
+msgstr "Omslag"
+
+msgid "Fit"
+msgstr "Fit"
+
+msgid "Actual Size"
+msgstr "Daadwerkelijke grootte"
+
+msgid "Background Image Position"
+msgstr "Achtergrondafbeeldingspositie"
+
+msgid ""
+"Choose a position from the options below and see what best fits your text."
+msgstr ""
+"Kies een positie uit de onderstaande opties en kijk wat het beste bij uw "
+"tekst past."
+
+msgid "Center Left"
+msgstr "Midden links"
+
+msgid "Center Right"
+msgstr "Midden rechts"
+
+msgid "Background Image Repeat"
+msgstr "Achtergrondafbeelding herhaling"
+
+msgid ""
+"Adjust the repetition of the image you picked and see whether it suits your "
+"text."
+msgstr ""
+"Pas de herhaling aan van de afbeelding die u hebt gekozen en kijk of deze "
+"bij uw tekst past."
+
+msgid "No Repeat"
+msgstr "Geen herhaling"
+
+msgid "Repeat"
+msgstr "Herhalen"
+
+msgid "Repeat X (horizontal)"
+msgstr "Herhaal X (horizontaal)"
+
+msgid "Repeat Y (vertical)"
+msgstr "Herhaal y (verticaal)"
+
+msgid "Space"
+msgstr "Ruimte"
+
+msgid "Round"
+msgstr "Ronde"
+
+msgid "Rotate Text Vertically"
+msgstr "Draai tekst verticaal"
+
+msgid "Turn this on for rotated text effect"
+msgstr "Schakel dit in voor geroteerde teksteffect"
+
+msgid "Rotate Text Vertically Flip"
+msgstr "Draai tekst verticaal omdraaien"
+
+msgid "Turn this on for rotated text effect flip"
+msgstr "Schakel dit in voor gedraaid teksteffect flip"
+
+msgid "Text Mask"
+msgstr "Tekstmasker"
+
+msgid "Next Text Stroke"
+msgstr "Volgende tekstslag"
+
+msgid "Stroke Settings"
+msgstr "Slaginstellingen"
+
+msgid "Stroke Hover Color"
+msgstr "Stroke Hover Color"
+
+msgid "Text Stroke Wrapper"
+msgstr "Tekstslag wrapper"
+
+msgid "Text Stroke Fill"
+msgstr "Tekstslagvulling"
+
+msgid "Text to Stroke"
+msgstr "Tekst naar een beroerte"
+
+msgid "Title entered here will appear with text stroke."
+msgstr "Titel die hier is ingevoerd, verschijnt met een tekstslag."
+
+msgid " Stroke Color"
+msgstr "Slagkleur"
+
+msgid "Adjust the color of the stroke applied to the text."
+msgstr "Pas de kleur van de slag op de tekst aan."
+
+msgid " Stroke Width"
+msgstr "Streekbreedte"
+
+msgid "Adjust the width of the stroke applied to the text."
+msgstr "Pas de breedte van de slag op de tekst aan."
+
+msgid "Stroke to Fill Animation"
+msgstr "Bera om animatie te vullen"
+
+msgid "Fill to Stroke Animation"
+msgstr "Vul om animatie te aaien"
+
+msgid "Select Single Color"
+msgstr "Selecteer enkele kleur"
+
+msgid "Select Hover Direction"
+msgstr "Selecteer Hover -richting"
+
+msgid "Top Animation"
+msgstr "Topanimatie"
+
+msgid "Right Animation"
+msgstr "Juiste animatie"
+
+msgid "Bottom Animation"
+msgstr "Onderste animatie"
+
+msgid "Left Animation"
+msgstr "Linkeranimatie"
+
+msgid "Angle Animation"
+msgstr "Hoekanimatie"
+
+msgid "Radial Animation"
+msgstr "Radiale animatie"
+
+msgid "Hover Motion Duration"
+msgstr "Zweven bewegingsduur"
+
+msgid "Stroke Fonts"
+msgstr "Lettertypen"
+
+msgid "Next Text Stroke Motion"
+msgstr "Volgende tekstslagbeweging"
+
+msgid "Multi"
+msgstr "Multi"
+
+msgid "Fill"
+msgstr "Vullen"
+
+msgid "Stroke Spacing"
+msgstr "Beroerteafstand"
+
+msgid "Stroke Motion Fonts"
+msgstr "Lettertypen met een beroerte"
+
+msgid "Animation text entered here will appear inside the module."
+msgstr "Animatietekst die hier is ingevoerd, verschijnt in de module."
+
+msgid "Multi Color"
+msgstr "Multi -kleur"
+
+msgid "Select Color Five"
+msgstr "Selecteer kleur vijf"
+
+msgid "Select Fill Color"
+msgstr "Selecteer vulkleur"
+
+msgid "Stroke Dash"
+msgstr "Beroerte dashboard"
+
+msgid "Adjust the shape of each line for the animated stroke text."
+msgstr "Pas de vorm van elke regel aan voor de geanimeerde slagtekst."
+
+msgid "Stroke Gap"
+msgstr "Slagschijf"
+
+msgid "Adjust the space between each line of the animated stroke text."
+msgstr "Pas de ruimte aan tussen elke regel van de geanimeerde slagtekst."
+
+msgid "Stroke Dashoffset"
+msgstr "Stroke Dashoffset"
+
+msgid "Adjust the speed of the animated stroke text."
+msgstr "Pas de snelheid van de geanimeerde slagtekst aan."
+
+msgid "Next Text Tilt"
+msgstr "Volgende tekst kantel"
+
+msgid "Background Content"
+msgstr "Achtergrondinhoud"
+
+msgid "Content Spacing"
+msgstr "Inhoudsafstand"
+
+msgid "Tilt"
+msgstr "Kantelen"
+
+msgid "Tilt Heading"
+msgstr "Tilt titel"
+
+msgid "Text Body"
+msgstr "Tekstlichaam"
+
+msgid "Heading Text here will appear inside the module."
+msgstr "De koptekst hier verschijnt in de module."
+
+msgid "Body Enable"
+msgstr "Lichaam inschakelen"
+
+msgid ""
+"Enable body for the text tilt to add extra information to your text tilt "
+"heading"
+msgstr ""
+"Schakel de body in voor de teksttilt om extra informatie toe te voegen aan "
+"uw tekstkanteling"
+
+msgid "Description entered here will appear inside the module."
+msgstr "Beschrijving die hier is ingevoerd, verschijnt in de module."
+
+msgid "Background Content Color"
+msgstr "Achtergrondinhoudskleur"
+
+msgid "Enable this to add background color to your text."
+msgstr "Schakel dit in om achtergrondkleur aan uw tekst toe te voegen."
+
+msgid "Select a suitable background color from color picker for the text."
+msgstr ""
+"Selecteer een geschikte achtergrondkleur uit kleurenkiezer voor de tekst."
+
+msgid "Enable this to add gradient background color to your tilt text."
+msgstr ""
+"Schakel dit in om de achtergrondkleur van de gradiënt toe te voegen aan uw "
+"tilttekst."
+
+msgid ""
+"Choose the first color to blend with the second color from the color picker "
+"that suits your tilt text."
+msgstr ""
+"Kies de eerste kleur om te mengen met de tweede kleur van de kleurenkiezer "
+"die past bij uw tilttekst."
+
+msgid ""
+"Choose the second color to blend with the first color from the color picker "
+"that suits your tilt text."
+msgstr ""
+"Kies de tweede kleur om te mengen met de eerste kleur van de kleurenkiezer "
+"die past bij uw Tilt -tekst."
+
+msgid "Select a type for your gradient here."
+msgstr "Selecteer hier een type voor uw gradiënt."
+
+msgid "Adjust the direction of the gradient for the tilt text."
+msgstr "Pas de richting van de gradiënt aan voor de Tilt -tekst."
+
+msgid ""
+"Enable this to get a slightly lowered opacity effect above the tilt text "
+"when hovered upon with the cursor."
+msgstr ""
+"Schakel dit in om een enigszins verlaagd dekking te krijgen boven de "
+"kantelstekst wanneer hij met de cursor zweeft."
+
+msgid ""
+"Adjust the glare to the tilt text; the higher the value the lower the "
+"opacity."
+msgstr "Pas de verblinding aan op de kantelstekst;"
+
+msgid "3D Enable"
+msgstr "3D inschakelen"
+
+msgid "Enable this to get a 3D effect on the tilt text."
+msgstr "Schakel dit in om een 3D -effect te krijgen op de Tilt -tekst."
+
+msgid "3D Transform"
+msgstr "3D -transformatie"
+
+msgid "Adjust to control the 3D effect enabled using this tool."
+msgstr ""
+"Pas aan om het 3D -effect te regelen dat is ingeschakeld met deze tool."
+
+msgid "Enabling this helps the tilt effect to occur on the opposite direction."
+msgstr ""
+"Dit inschakelen helpt het kanteleffect in de tegenovergestelde richting op "
+"te treden."
+
+msgid ""
+"Adjust the perspective to the tilt text; the higher the value the lower the "
+"space taken."
+msgstr "Pas het perspectief aan op de Tilt -tekst;"
+
+msgid ""
+"Adjust this to lessen the excessive movement; the higher the value the "
+"faster the tilt effect when hovered on with cursor."
+msgstr "Pas dit aan om de overmatige beweging te verminderen;"
+
+msgid ""
+"Adjust the tilt speed using this slider below; the higher the value the "
+"faster the motion."
+msgstr "Pas de kantelsnelheid aan met deze schuifregelaar hieronder;"
+
+msgid "Adjust the vertical angle to tilt text."
+msgstr "Pas de verticale hoek aan om tekst te kantelen."
+
+msgid "Adjust the horizontal angle to the tilt text."
+msgstr "Pas de horizontale hoek aan op de tilttekst."
+
+msgid "Increase or decrease the scale of the text using the slider below."
+msgstr ""
+"Verhoog of verlagen de schaal van de tekst met behulp van de onderstaande "
+"schuifregelaar."
+
+msgid "Next Timeline"
+msgstr "Volgende tijdlijn"
+
+msgid "Identifier"
+msgstr "Identificatier"
+
+msgid "Icon/Image"
+msgstr "Pictogram/afbeelding"
+
+msgid "Identifier Box Shadow"
+msgstr "Identifier Box Shadow"
+
+msgid "Next Timeline Item"
+msgstr "Volgende tijdlijnitem"
+
+msgid "Timeline Elements"
+msgstr "Tijdlijnelementen"
+
+msgid "Timeline Box Shadow"
+msgstr "Tijdlijnbox schaduw"
+
+msgid "Image/Icon Box Shadow"
+msgstr "Afbeelding/pictogrambox Shadow"
+
+msgid "Timeline Content Image"
+msgstr "Tijdlijninhoudsafbeelding"
+
+msgid "Upload an image to display at timeline section."
+msgstr ""
+"Upload een afbeelding die moet worden weergegeven op het tijdlijngedeelte."
+
+msgid "Content Image Alt"
+msgstr "Inhoudsafbeelding Alt"
+
+msgid "Timeline Icon/Image"
+msgstr "Tijdlijnpictogram/afbeelding"
+
+msgid "Upload an image to display at icon section."
+msgstr ""
+"Upload een afbeelding die moet worden weergegeven op het pictogramgedeelte."
+
+msgid "Input Timeline date"
+msgstr "Input -tijdlijndatum"
+
+msgid "Icon Position"
+msgstr "Pictogrampositie"
+
+msgid "Adjust the position of the icon within."
+msgstr "Pas de positie van het pictogram binnen binnen."
+
+msgid "Adjust the size of the icon within."
+msgstr "Pas de grootte van het pictogram binnen."
+
+msgid "Icon/Image Padding"
+msgstr "Pictogram/beeldvulling"
+
+msgid "Identifier Margin"
+msgstr "Identifiermarge"
+
+msgid "Identifier Padding"
+msgstr "Identifiervulling"
+
+msgid "Adjust the position of the image within."
+msgstr "Pas de positie van het beeld binnen binnen."
+
+msgid "Timeline Background"
+msgstr "Tijdlijn achtergrond"
+
+msgid "Next Twitter Follow Button"
+msgstr "Volgende Twitter volg de knop"
+
+msgid "Twitter Follow Elements"
+msgstr "Twitter Volg elementen"
+
+msgid "Twitter Button Settings"
+msgstr "Twitter -knopinstellingen"
+
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+msgid "Input twitter username here."
+msgstr "Input Twitter -gebruikersnaam hier."
+
+msgid "Show Username"
+msgstr "Toon gebruikersnaam"
+
+msgid "Choose Yes or No to show Username in follow button."
+msgstr "Kies ja of nee om de gebruikersnaam in de volgknop te tonen."
+
+msgid "Show Count"
+msgstr "Toon telling"
+
+msgid ""
+"Choose Yes or No to show number of accounts following the specified account."
+msgstr ""
+"Kies ja of nee om het aantal accounts te tonen na het opgegeven account."
+
+msgid "Button Size"
+msgstr "Knopformaat"
+
+msgid "Choose tweet button size."
+msgstr "Kies Tweet -knop maat."
+
+msgid "Button Language"
+msgstr "Knooptaal"
+
+msgid "Input your language code. Default is en for English."
+msgstr "Voer uw taalcode in."
+
+msgid "Next Twitter Tweet Button"
+msgstr "Volgende Twitter Tweet -knop"
+
+msgid "Tweet Share Elements"
+msgstr "Tweet delen elementen"
+
+msgid "Tweet Button Settings"
+msgstr "Tweet -knopinstellingen"
+
+msgid "Tweet Text"
+msgstr "Tweet tekst"
+
+msgid "Input twitter tweet text here."
+msgstr "Input Twitter Tweet -tekst hier."
+
+msgid "Tweet URL"
+msgstr "Tweet URL"
+
+msgid "URL included with the Tweet."
+msgstr "URL inbegrepen bij de tweet."
+
+msgid "Hashtags"
+msgstr "Hashtags"
+
+msgid ""
+"Input a comma-separated list of hashtags to be appended to default Tweet "
+"text."
+msgstr ""
+"Voer een door komma gescheiden lijst van hashtags in die moet worden "
+"toegevoegd aan standaard tweettekst."
+
+msgid "Via"
+msgstr "Via"
+
+msgid "Attribute the source of a Tweet to a Twitter username."
+msgstr "Schrijf de bron van een tweet toe aan een Twitter -gebruikersnaam."
+
+msgid "Related Accounts"
+msgstr "Gerelateerde accounts"
+
+msgid ""
+"Input a comma-separated list of accounts related to the content of the "
+"shared URI."
+msgstr ""
+"Voer een door komma gescheiden lijst met accounts in met betrekking tot de "
+"inhoud van de gedeelde URI."
+
+msgid "Next Twitter Timeline"
+msgstr "Volgende Twitter -tijdlijn"
+
+msgid "Twitter Timeline Elements"
+msgstr "Twitter -tijdlijnelementen"
+
+msgid "Twitter Username"
+msgstr "Twitter gebruikersnaam"
+
+msgid "Theme"
+msgstr "Thema"
+
+msgid "Choose twitter timeline theme."
+msgstr "Kies Twitter -tijdlijnthema."
+
+msgid "Light"
+msgstr "Licht"
+
+msgid "Dark"
+msgstr "Donker"
+
+msgid "Show Replies"
+msgstr "Toon antwoorden"
+
+msgid ""
+"Choose Yes or No to show Tweets in response to another Tweet or account."
+msgstr ""
+"Kies ja of nee om tweets weer te geven in reactie op een andere tweet of "
+"account."
+
+msgid "Limit Tweets"
+msgstr "Beperk tweets"
+
+msgid "Choose Yes or No to limit number of tweet."
+msgstr "Kies ja of nee om het aantal tweet te beperken."
+
+msgid "Number Of Tweets"
+msgstr "Aantal tweets"
+
+msgid "Use Header"
+msgstr "Gebruik header"
+
+msgid "Choose Yes or No to show header."
+msgstr "Kies ja of nee om header te tonen."
+
+msgid "Use Footer"
+msgstr "Gebruik voettekst"
+
+msgid "Choose Yes or No to show footer."
+msgstr "Kies ja of nee om voettekst te tonen."
+
+msgid "Use Borders"
+msgstr "Gebruik grenzen"
+
+msgid "Choose Yes or No to show borders."
+msgstr "Kies ja of nee om randen te tonen."
+
+msgid "Transparent"
+msgstr "Transparant"
+
+msgid "Show Scrollbar"
+msgstr "Show Scrollbar"
+
+msgid "Choose Yes or No to show scrollbar."
+msgstr "Kies ja of nee om scrollbar te tonen."
+
+msgid "Next Twitter Tweet"
+msgstr "Volgende Twitter -tweet"
+
+msgid "Tweet Elements"
+msgstr "Tweet elementen"
+
+msgid "Tweet ID"
+msgstr "Tweet ID"
+
+msgid "Input Tweet ID."
+msgstr "Voer Tweet ID in."
+
+msgid "Language Code"
+msgstr "Taalcode"
+
+msgid "Input your language code.default is English."
+msgstr "Voer uw taalcode in. Default is Engels."
+
+msgid "Show Cards"
+msgstr "Laat kaarten zien"
+
+msgid "Choose Yes or No to display Cards or Picture attached to tweet."
+msgstr "Kies ja of nee om kaarten of afbeelding te weergeven aan Tweet."
+
+msgid "Show Coversation"
+msgstr "Toon een gesprek"
+
+msgid ""
+"When set to none, only the cited Tweet will be displayed even if it is in "
+"reply to another Tweet."
+msgstr ""
+"Wanneer ingesteld op geen, wordt alleen de geciteerde tweet weergegeven, "
+"zelfs als deze in antwoord is op een andere tweet."
+
+msgid "Align"
+msgstr "Uitlijnen"
+
+msgid "Align tweet to the left, right or center."
+msgstr "Leg de tweet aan de linkerkant, rechts of in het midden uit."
+
+msgid "Choose tweet theme."
+msgstr "Kies Tweet -thema."
+
+msgid "Next Ultimate Image Hover"
+msgstr "Volgende ultieme beeldhoop"
+
+msgid "Opacity"
+msgstr "Dekking"
+
+msgid "Heading Hover"
+msgstr "Regelop"
+
+msgid "Hover Text"
+msgstr "Zweven tekst"
+
+msgid "Effect 20"
+msgstr "Effect 20"
+
+msgid "Effect 21"
+msgstr "Effect 21"
+
+msgid "Effect 22"
+msgstr "Effect 22"
+
+msgid "Effect 23"
+msgstr "Effect 23"
+
+msgid "Effect 24"
+msgstr "Effect 24"
+
+msgid "Background Overlay"
+msgstr "Achtergrondoverlay"
+
+msgid "Content Gradient Color"
+msgstr "Inhoudsgradiëntkleur"
+
+msgid "Image Opacity"
+msgstr "Afbeelding opaciteit"
+
+msgid "Hover Text Fonts"
+msgstr "Hover tekstlettertypen"
+
+msgid "Heading Bold"
+msgstr "Regel moedig"

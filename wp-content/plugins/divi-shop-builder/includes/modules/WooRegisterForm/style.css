@@ -1,0 +1,21 @@
+.ags_woo_register_form .ags_login_register_title {
+  margin-bottom: 10px;
+}
+.ags_woo_register_form label {
+  display: block;
+  margin-bottom: 5px;
+}
+.ags_woo_register_form .woocommerce-privacy-policy-text {
+  margin-bottom: 10px;
+}
+.ags_woo_register_form input[type=text], .ags_woo_register_form input[type=email], .ags_woo_register_form input[type=password] {
+  padding: 14px 10px !important;
+  font-size: 16px;
+  color: #666;
+  background-color: #fff;
+  width: 100%;
+  font-weight: 400;
+  border-radius: 3px;
+}
+
+/*# sourceMappingURL=style.css.map */

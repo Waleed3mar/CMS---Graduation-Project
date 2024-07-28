@@ -1,0 +1,69 @@
+.et-db #et-boc .et-l .et_pb_row:has(> .et_pb_column .ags_woo_products_filters),
+.et_pb_row:has(> .et_pb_column .ags_woo_products_filters) {
+  z-index: 3;
+}
+
+.et-db #et-boc .et-l .et_pb_column:has(> .ags_woo_products_filters),
+.et_pb_column:has(> .ags_woo_products_filters) {
+  z-index: 3;
+}
+
+.ags-wc-filters-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.ags-wc-filters-row .ags-wc-filters-button {
+  white-space: nowrap;
+}
+.ags-wc-filters-row .ags-wc-filters-sections {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.ags-wc-filters-row .ags-wc-filters-sections > div {
+  position: relative;
+  flex-shrink: 1;
+}
+.ags-wc-filters-row .ags-wc-filters-sections > div.ags-wc-filters-hidden {
+  flex-grow: 0;
+}
+.ags-wc-filters-row .ags-wc-filters-section {
+  padding: 5px 10px;
+}
+.ags-wc-filters-row .ags_woo_products_filters_child .ags-wc-filters-section-inner-wrapper {
+  position: absolute;
+  top: 40px;
+  left: 0;
+  background-color: #fff;
+  padding: 20px 10px;
+  min-width: 300px;
+  z-index: 9999;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+}
+.ags-wc-filters-row .ags-wc-filters-section.ags-wc-filters-section-toggle-closed .ags-wc-filters-section-inner-wrapper {
+  display: none;
+}
+.ags-wc-filters-row .ags-wc-filters-section-toggle-closed .ags-wc-filters-section-title.ags-wc-filters-section-toggle:after {
+  content: "\e801";
+}
+.ags-wc-filters-row .ags-wc-filters-section-title.ags-wc-filters-section-toggle:after {
+  content: "\e802";
+}
+.ags-wc-filters-row .ags-wc-filters-break {
+  flex-basis: 100%;
+  height: 0;
+}
+.ags-wc-filters-row .ags-wc-filters-selected-body {
+  display: flex;
+  align-items: flex-start;
+}
+.ags-wc-filters-row .ags-wc-filters-selected-main.ags-wc-filters-selected-display-top .ags-wc-filters-selected-outer,
+.ags-wc-filters-row .ags-wc-filters-selected-main.ags-wc-filters-selected-display-bottom .ags-wc-filters-selected-outer {
+  display: flex;
+  flex-direction: row;
+  row-gap: 10px;
+  column-gap: 10px;
+  align-items: center;
+}
+
+/*# sourceMappingURL=style.css.map */
